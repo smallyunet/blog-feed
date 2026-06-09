@@ -192,7 +192,7 @@ a:visited {
 }
 
 .outer {
-  margin: 7% var(--home-outer-margin-x) 4%;
+  margin: 48px var(--home-outer-margin-x) 64px;
 }
 
 .feed-toolbar {
@@ -271,7 +271,7 @@ a:visited {
   display: grid;
   grid-template-columns: var(--date-col-width) 1fr auto;
   column-gap: var(--list-grid-gap);
-  align-items: start;
+  align-items: center;
   min-height: 58px;
   padding: 16px 20px;
   background-image: linear-gradient(to bottom, transparent calc(100% - 1px), rgba(0, 0, 0, 0.08) 0);
@@ -317,7 +317,6 @@ a:visited {
 }
 
 .item-summary {
-  margin-top: 6px;
   color: #333;
   font-size: var(--font-size-sm);
   line-height: 1.72;
@@ -443,6 +442,7 @@ a:visited {
 
 .micro-item {
   grid-template-columns: var(--date-col-width) 1fr auto;
+  align-items: start;
 }
 
 .micro-item .item-title {
