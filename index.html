@@ -11,20 +11,25 @@
     <link rel="stylesheet" href="./styles.css">
   </head>
   <body>
-    <nav class="navbar" aria-label="Main navigation">
-      <a class="navbar-brand" href="./" title="smallyu feed">smallyu的聚合</a>
-      <button class="navbar-toggle" id="menu-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
-        <span></span>
-        <span></span>
-        <span></span>
+    <header class="site-header">
+      <a class="brand" href="https://smallyu.net/">smallyu的博客</a>
+      <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Toggle Navigation Menu" aria-expanded="false">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
       </button>
-      <div class="navbar-menu" id="nav-menu">
-        <a href="https://b.smallyu.net/">B 面</a>
-        <a href="https://crazy.smallyu.net/">疯狂版</a>
-        <a href="https://t.smallyu.net/">微博</a>
-        <a href="./atom.xml">订阅</a>
-      </div>
-    </nav>
+      <nav class="nav-collapse" id="nav-menu">
+        <ul class="nav-list">
+          <li><a href="https://smallyu.net/">博客</a></li>
+          <li><a href="https://b.smallyu.net/">B 面</a></li>
+          <li><a href="https://crazy.smallyu.net/">疯狂版</a></li>
+          <li><a href="https://t.smallyu.net/">微博</a></li>
+          <li class="active"><a href="./">聚合</a></li>
+          <li><a href="./atom.xml">订阅</a></li>
+          <li><a href="https://smallyu.net/about">联系</a></li>
+        </ul>
+      </nav>
+    </header>
 
     <main class="outer">
       <section class="feed-toolbar" aria-label="Feed filters">
