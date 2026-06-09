@@ -9,6 +9,13 @@ const atomPath = new URL("atom.xml", root);
 
 const articleSources = [
   {
+    id: "blog",
+    label: "博客",
+    url: "https://smallyu.net/",
+    atomUrl: "https://smallyu.net/atom.xml",
+    localAtom: new URL("../../blog/docs/atom.xml", import.meta.url),
+  },
+  {
     id: "blog-b",
     label: "B 面",
     url: "https://b.smallyu.net/",
@@ -197,6 +204,35 @@ function sortItems(items) {
   return items.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 }
 
+function articleCanonicalKey(item) {
+  try {
+    const url = new URL(item.url);
+    return url.pathname.replace(/\/$/, "");
+  } catch {
+    return `${item.title.trim()}|${String(item.publishedAt).slice(0, 10)}`;
+  }
+}
+
+function dedupeBlogArticles(items) {
+  const preferred = new Map();
+  const others = [];
+
+  for (const item of items) {
+    if (!["blog", "blog-b"].includes(item.source)) {
+      others.push(item);
+      continue;
+    }
+
+    const key = articleCanonicalKey(item);
+    const existing = preferred.get(key);
+    if (!existing || (existing.source === "blog-b" && item.source === "blog")) {
+      preferred.set(key, item);
+    }
+  }
+
+  return [...preferred.values(), ...others];
+}
+
 function escapeHtml(value) {
   return String(value || "")
     .replace(/&/g, "&amp;")
@@ -223,7 +259,7 @@ function buildAtom(items, generatedAt) {
   return `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>smallyu feed</title>
-  <subtitle>blog-b, blog-crazy, and microblog updates</subtitle>
+  <subtitle>blog, blog-b, blog-crazy, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
   <updated>${generatedAt}</updated>
@@ -241,10 +277,11 @@ async function main() {
   ]);
 
   const generatedAt = new Date().toISOString();
-  const items = sortItems([...articleGroups.flat(), ...microItems]);
+  const articleItems = dedupeBlogArticles(articleGroups.flat());
+  const items = sortItems([...articleItems, ...microItems]);
   const payload = {
     title: "smallyu feed",
-    description: "Aggregated updates from B 面, 疯狂版, and 微博.",
+    description: "Aggregated updates from 博客, B 面, 疯狂版, and 微博.",
     generatedAt,
     sources: [...articleSources, microSource].map(({ id, label, url }) => ({ id, label, url })),
     count: items.length,
