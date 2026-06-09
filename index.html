@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="smallyu 的聚合动态，包含 B 面、疯狂版和微博。">
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#0f1115">
+    <title>smallyu feed</title>
+    <link rel="alternate" type="application/atom+xml" title="smallyu feed" href="./atom.xml">
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <nav class="navbar" aria-label="Main navigation">
+      <a class="navbar-brand" href="./" title="smallyu feed">smallyu的聚合</a>
+      <button class="navbar-toggle" id="menu-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="navbar-menu" id="nav-menu">
+        <a href="https://b.smallyu.net/">B 面</a>
+        <a href="https://crazy.smallyu.net/">疯狂版</a>
+        <a href="https://t.smallyu.net/">微博</a>
+        <a href="./atom.xml">订阅</a>
+      </div>
+    </nav>
+
+    <main class="outer">
+      <section class="feed-toolbar" aria-label="Feed filters">
+        <div class="filter-tabs" id="filter-tabs" role="tablist" aria-label="Sources">
+          <button class="filter-tab" type="button" data-filter="all" aria-selected="true">全部</button>
+          <button class="filter-tab" type="button" data-filter="blog-b" aria-selected="false">B 面</button>
+          <button class="filter-tab" type="button" data-filter="blog-crazy" aria-selected="false">疯狂版</button>
+          <button class="filter-tab" type="button" data-filter="micro" aria-selected="false">微博</button>
+        </div>
+        <div class="feed-meta" id="feed-meta">Loading...</div>
+      </section>
+
+      <ol class="list-group" id="feed-list" aria-live="polite"></ol>
+    </main>
+
+    <template id="loading-template">
+      <li class="list-group-item loading-row">
+        <span></span>
+        <span></span>
+      </li>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
