@@ -74,7 +74,6 @@ function articleItem(item) {
       <time class="item-date" datetime="${escapeHtml(item.publishedAt)}">${formatDate(item.publishedAt)}</time>
       <div class="item-main">
         <a class="item-title" href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a>
-        <div class="item-summary">${item.summaryHtml || ""}</div>
       </div>
       <div class="item-aside">
         <span class="source-badge">${escapeHtml(item.sourceLabel)}</span>
