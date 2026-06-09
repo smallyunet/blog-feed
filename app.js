@@ -63,11 +63,6 @@ function renderMeta(items) {
   els.meta.textContent = `${source} · ${items.length} 条 · ${formatFullDate(state.generatedAt)}`;
 }
 
-function renderTags(tags = []) {
-  if (!tags.length) return "";
-  return `<div class="tags">${tags.slice(0, 3).map((tag) => `<span class="tag">#${escapeHtml(tag)}</span>`).join("")}</div>`;
-}
-
 function articleItem(item) {
   return `
     <li class="list-group-item article-item" id="${escapeHtml(item.id)}">
@@ -77,7 +72,6 @@ function articleItem(item) {
       </div>
       <div class="item-aside">
         <span class="source-badge">${escapeHtml(item.sourceLabel)}</span>
-        ${renderTags(item.tags)}
       </div>
     </li>
   `;
@@ -92,7 +86,6 @@ function microItem(item) {
       </div>
       <div class="item-aside">
         <span class="source-badge">${escapeHtml(item.sourceLabel)}</span>
-        <a class="source-link" href="${escapeHtml(item.url)}">原文</a>
       </div>
     </li>
   `;
