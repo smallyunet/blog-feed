@@ -551,7 +551,7 @@ a:visited {
   }
 }
 
-@media (max-width: 413px) {
+@media (max-width: 640px) {
   .menu-toggle {
     display: flex;
   }

@@ -7,6 +7,7 @@ Sources:
 - `blog`: `https://smallyu.net/atom.xml`
 - `blog-b`: `https://b.smallyu.net/atom.xml`
 - `blog-crazy`: `https://crazy.smallyu.net/atom.xml`
+- `old-blog`: `https://old-blog.smallyu.net/auto.xml`
 - `blog-micro`: `https://t.smallyu.net/data/*.json`
 
 When the same article appears in both `blog` and `blog-b`, the generated feed keeps the `blog` item and drops the duplicate `blog-b` item.

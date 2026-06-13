@@ -29,6 +29,13 @@ const articleSources = [
     atomUrl: "https://crazy.smallyu.net/atom.xml",
     localAtom: new URL("../../blog-crazy/docs/atom.xml", import.meta.url),
   },
+  {
+    id: "old-blog",
+    label: "旧博客",
+    url: "https://old-blog.smallyu.net/",
+    rssUrl: "https://old-blog.smallyu.net/auto.xml",
+    localRss: new URL("../../old-blog/auto.xml", import.meta.url),
+  },
 ];
 
 const microSource = {
@@ -155,10 +162,41 @@ function normalizeArticleEntry(source, entry) {
   };
 }
 
+function normalizeRssEntry(source, entry) {
+  const contentHtml = xmlText(entry.description);
+  const publishedAt = new Date(xmlText(entry.pubDate)).toISOString();
+  const url = xmlText(entry.link);
+
+  return {
+    id: `${source.id}:${xmlText(entry.guid) || url}`,
+    type: "article",
+    source: source.id,
+    sourceLabel: source.label,
+    sourceUrl: source.url,
+    title: xmlText(entry.title) || "Untitled",
+    url,
+    publishedAt,
+    updatedAt: publishedAt,
+    summaryHtml: `<p>${escapeHtml(truncateText(stripHtml(contentHtml)))}</p>`,
+    contentHtml,
+    text: stripHtml(contentHtml),
+    tags: [],
+  };
+}
+
 async function loadArticleItems(source) {
-  const xml = await readText({ localUrl: source.localAtom, remoteUrl: source.atomUrl });
+  const xml = await readText({
+    localUrl: source.localAtom || source.localRss,
+    remoteUrl: source.atomUrl || source.rssUrl,
+  });
   const parsed = xmlParser.parse(xml);
-  return asArray(parsed.feed?.entry).map((entry) => normalizeArticleEntry(source, entry));
+  if (parsed.feed) {
+    return asArray(parsed.feed.entry).map((entry) => normalizeArticleEntry(source, entry));
+  }
+  if (parsed.rss?.channel) {
+    return asArray(parsed.rss.channel.item).map((entry) => normalizeRssEntry(source, entry));
+  }
+  throw new Error(`Unsupported feed format for ${source.id}`);
 }
 
 async function loadMicroItems() {
@@ -259,7 +297,7 @@ function buildAtom(items, generatedAt) {
   return `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>smallyu feed</title>
-  <subtitle>blog, blog-b, blog-crazy, and microblog updates</subtitle>
+  <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
   <updated>${generatedAt}</updated>
@@ -281,7 +319,7 @@ async function main() {
   const items = sortItems([...articleItems, ...microItems]);
   const payload = {
     title: "smallyu feed",
-    description: "Aggregated updates from 博客, B 面, 疯狂版, and 微博.",
+    description: "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
     generatedAt,
     sources: [...articleSources, microSource].map(({ id, label, url }) => ({ id, label, url })),
     count: items.length,
