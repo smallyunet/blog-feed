@@ -3,12 +3,16 @@ const state = {
   sources: [],
   filter: "all",
   generatedAt: null,
+  visibleCount: 0,
 };
+
+const pageSize = 80;
 
 const els = {
   list: document.getElementById("feed-list"),
   meta: document.getElementById("feed-meta"),
   tabs: document.getElementById("filter-tabs"),
+  loadMore: document.getElementById("load-more"),
   loadingTemplate: document.getElementById("loading-template"),
 };
 
@@ -60,7 +64,9 @@ function renderMeta(items) {
   const source = state.filter === "all"
     ? "全部"
     : state.sources.find((item) => item.id === state.filter)?.label || state.filter;
-  els.meta.textContent = `${source} · ${items.length} 条 · ${formatFullDate(state.generatedAt)}`;
+  const visibleCount = Math.min(state.visibleCount, items.length);
+  const progress = items.length > visibleCount ? ` · 已显示 ${visibleCount} 条` : "";
+  els.meta.textContent = `${source} · ${items.length} 条${progress} · ${formatFullDate(state.generatedAt)}`;
 }
 
 function articleItem(item) {
@@ -91,16 +97,35 @@ function microItem(item) {
   `;
 }
 
+function updateLoadMore(items) {
+  if (!els.loadMore) return;
+  const hasMore = state.visibleCount < items.length;
+  els.loadMore.hidden = !hasMore;
+  if (hasMore) {
+    const remaining = items.length - state.visibleCount;
+    els.loadMore.textContent = `加载更多（剩余 ${remaining} 条）`;
+  }
+}
+
 function render() {
   const items = filteredItems();
+  if (state.visibleCount === 0) {
+    state.visibleCount = Math.min(pageSize, items.length);
+  } else {
+    state.visibleCount = Math.min(state.visibleCount, items.length);
+  }
   renderMeta(items);
+  updateLoadMore(items);
 
   if (!items.length) {
     els.list.innerHTML = "<li class=\"list-group-item empty-row\">No items.</li>";
     return;
   }
 
-  els.list.innerHTML = items.map((item) => item.type === "micro" ? microItem(item) : articleItem(item)).join("");
+  els.list.innerHTML = items
+    .slice(0, state.visibleCount)
+    .map((item) => item.type === "micro" ? microItem(item) : articleItem(item))
+    .join("");
 }
 
 function escapeHtml(value) {
@@ -113,10 +138,20 @@ function escapeHtml(value) {
 
 function setFilter(filter) {
   state.filter = filter;
+  state.visibleCount = 0;
   for (const button of els.tabs.querySelectorAll(".filter-tab")) {
     button.setAttribute("aria-selected", String(button.dataset.filter === filter));
   }
   render();
+}
+
+function initLoadMore() {
+  if (!els.loadMore) return;
+  els.loadMore.addEventListener("click", () => {
+    const items = filteredItems();
+    state.visibleCount = Math.min(state.visibleCount + pageSize, items.length);
+    render();
+  });
 }
 
 function initFilters() {
@@ -150,6 +185,7 @@ function initMenuToggle() {
 async function init() {
   renderLoading();
   initFilters();
+  initLoadMore();
   initMenuToggle();
 
   try {

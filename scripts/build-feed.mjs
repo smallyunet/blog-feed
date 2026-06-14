@@ -308,6 +308,30 @@ ${items.map(atomEntry).join("\n")}
 `;
 }
 
+function feedListItem(item) {
+  const base = {
+    id: item.id,
+    type: item.type,
+    source: item.source,
+    sourceLabel: item.sourceLabel,
+    title: item.title,
+    url: item.url,
+    publishedAt: item.publishedAt,
+    updatedAt: item.updatedAt,
+  };
+
+  if (item.type === "micro") {
+    return {
+      ...base,
+      summaryHtml: item.summaryHtml,
+      contentHtml: item.contentHtml,
+      year: item.year,
+    };
+  }
+
+  return base;
+}
+
 async function main() {
   const [articleGroups, microItems] = await Promise.all([
     Promise.all(articleSources.map(loadArticleItems)),
@@ -323,7 +347,7 @@ async function main() {
     generatedAt,
     sources: [...articleSources, microSource].map(({ id, label, url }) => ({ id, label, url })),
     count: items.length,
-    items,
+    items: items.map(feedListItem),
   };
 
   await fs.mkdir(dataDir, { recursive: true });
