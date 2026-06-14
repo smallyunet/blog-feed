@@ -4,9 +4,20 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-06-13T04:56:49.630Z</updated>
+  <updated>2026-06-14T03:09:03.611Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
+  <entry>
+    <title>加密货币的价值，本质上来自市场的注意力。所以所有加密货币的经济模型，都是注意力经济。</title>
+    <link href="https://github.com/smallyunet/blog-micro/issues/1#issuecomment-4686489606"/>
+    <id>micro:4686489606</id>
+    <published>2026-06-12T01:21:19Z</published>
+    <updated>2026-06-12T01:21:19Z</updated>
+    <category term="微博"/>
+    <summary type="html"><![CDATA[<p>加密货币的价值，本质上来自市场的注意力。所以所有加密货币的经济模型，都是注意力经济。</p>]]></summary>
+    <content type="html"><![CDATA[<p>加密货币的价值，本质上来自市场的注意力。所以所有加密货币的经济模型，都是注意力经济。</p>
+]]></content>
+  </entry>
   <entry>
     <title>不要喝无糖可乐</title>
     <link href="https://crazy.smallyu.net/2026/06/10/%E4%B8%8D%E8%A6%81%E5%96%9D%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90/"/>
@@ -44,14 +55,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>从我的整合职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TG...</title>
+    <title>从我的整个职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TG...</title>
     <link href="https://github.com/smallyunet/blog-micro/issues/1#issuecomment-4647974532"/>
     <id>micro:4647974532</id>
     <published>2026-06-08T10:32:59Z</published>
-    <updated>2026-06-08T10:32:59Z</updated>
+    <updated>2026-06-12T01:21:29Z</updated>
     <category term="微博"/>
-    <summary type="html"><![CDATA[<p>从我的整合职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TGE、上交易所、解锁拿到代币，然后在流动性里卖掉。 除此之外，看不到更加清晰的有逻辑的路径，什么链上科学家、安全审计、交易员、BD。 也因此我之前换工作的频率很高，基本上一年一次。每当离开一个项目，我都...</p>]]></summary>
-    <content type="html"><![CDATA[<p>从我的整合职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TGE、上交易所、解锁拿到代币，然后在流动性里卖掉。</p>
+    <summary type="html"><![CDATA[<p>从我的整个职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TGE、上交易所、解锁拿到代币，然后在流动性里卖掉。 除此之外，看不到更加清晰的有逻辑的路径，什么链上科学家、安全审计、交易员、BD。 也因此我之前换工作的频率很高，基本上一年一次。每当离开一个项目，我都...</p>]]></summary>
+    <content type="html"><![CDATA[<p>从我的整个职业生涯的经历出发，我能够幻想到的最赚钱的路径，是作为项目的核心初创人员，拿到团队的内部币权，然后项目如期TGE、上交易所、解锁拿到代币，然后在流动性里卖掉。</p>
 <p>除此之外，看不到更加清晰的有逻辑的路径，什么链上科学家、安全审计、交易员、BD。</p>
 <p>也因此我之前换工作的频率很高，基本上一年一次。每当离开一个项目，我都深刻的知道，那个项目一定不行了、一定做起不来、一定会持续走下坡路。</p>
 <p>当然，我看不到任何除了“打工”（参与项目、合作）之外能赚钱的方式。</p>
@@ -1124,14 +1135,14 @@
     <content type="html"><![CDATA[<p>为什么文章只发到独立博客呢？独立博客没什么访问量，如果发到知乎、掘金，甚至是头条、百度、登链等平台，再加上 Meidum、X、Mirror 一类，文章访问量肯定可以高很多，关注量也会高很多，会有更多人注意到 smallyu 这个昵称。</p><p>因为那些充斥着低质量内容的平台，不值得去发布高质量内容的文章。那些人是看不懂的，看不懂我在写什么。看看掘金首页上有什么？10 篇文章 8 篇讲 Cursor，很难想象用户素质得多低。知乎就更不用说了，内容杂乱、商业化，关键是网页访问弹窗，不是让登陆就是让下载 APP，正经人谁去那种平台啊。</p><p>Web3 行业小，从业者本来就不多，也没有什么好玩的内容平台。去吸引一堆只懂 Web2 的用户，其实也没什么意义，和他们是没有共同语言的。我在脉脉的职言区，匿名账号下，发布过几千条帖子，总阅读量超过几千万，发的都是观点偏激、引战一类的内容。那种阅读量有意义吗？毫无意义。</p><p>所以实际上没有更好的选择。</p><p>我知道独立博客没有人看，因为我自己平时都不太看别人的博客。长期关注并且反复看了很多遍的只有王垠的博客，不只是看最新的文章，还会用 Wayback Machine 来 “考古”，还搜集了很多王垠博客的备份链接，还整理出了一个王垠百科那样的网站……</p><p>以前偶尔也看一眼左耳朵耗子（CoolShell，陈皓）的博客，他的博客内容很多，研究的技术很多很杂，属于宝藏一类，文章不值得读但是他关注的技术关键词值得关注。比如他在 2022 年研究过 ePBF，ePBF 是 Solana 区块链实现 SVM 虚拟机的底层技术。可惜他的博客已经不更新了。</p><p>其实 CoolShell 这个博客，对我们来说是一个反面例子，他在告诫我们，不要过于专注技术，不需要什么都懂，不需要那么努力，不需要那么有观点，不需要…… 他应该引起我们的反思，高质量的技术博客，真的有意义吗？</p><p>另外阮一峰的博客很多年前看过，后来随着自己技术能力的提升，就不看了。阮一峰的博客不算技术博客，里面都是一些文艺类的内容，小白观众居多。</p><p>我自己关注的博客都没几个，而且都是很知名的人物，就这么个情况，相信别人也一样。所以继续努力吧，等自己成为 somebody，再考虑访问量的问题。没有人会关心 nobody 写的东西。</p>]]></content>
   </entry>
   <entry>
-    <title>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，我得分别在两个博客里改。</title>
+    <title>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，得分别在两个博客里改。</title>
     <link href="https://github.com/smallyunet/blog-crazy/issues/35#issuecomment-3143753408"/>
     <id>micro:3143753408</id>
     <published>2025-08-01T08:44:16Z</published>
-    <updated>2025-08-01T08:44:16Z</updated>
+    <updated>2026-06-09T04:39:59Z</updated>
     <category term="微博"/>
-    <summary type="html"><![CDATA[<p>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，我得分别在两个博客里改。</p>]]></summary>
-    <content type="html"><![CDATA[<p>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，我得分别在两个博客里改。</p>
+    <summary type="html"><![CDATA[<p>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，得分别在两个博客里改。</p>]]></summary>
+    <content type="html"><![CDATA[<p>现在得维护两个博客，整的很麻烦，比如一篇文章有 typo，得分别在两个博客里改。</p>
 ]]></content>
   </entry>
   <entry>
@@ -1442,13 +1453,13 @@
     <link href="https://github.com/smallyunet/blog-crazy/issues/35#issuecomment-2998812656"/>
     <id>micro:2998812656</id>
     <published>2025-06-24T05:00:19Z</published>
-    <updated>2025-06-24T05:00:19Z</updated>
+    <updated>2026-06-09T04:39:47Z</updated>
     <category term="微博"/>
     <summary type="html"><![CDATA[<p>重新打开了微博的 issue，并且恢复了导航栏里的微博按钮，因为现在博客拆分为两个网站了： smallyu.net crazy.smallyu.net （疯狂版） 在疯狂版上，我可以随心所欲发布任何想说的内容，应该没人会关注到。</p>]]></summary>
     <content type="html"><![CDATA[<p>重新打开了微博的 issue，并且恢复了导航栏里的微博按钮，因为现在博客拆分为两个网站了：</p>
 <ul>
-<li>smallyu.net</li>
-<li>crazy.smallyu.net （疯狂版）</li>
+<li><a href="https://smallyu.net/">smallyu.net</a></li>
+<li><a href="https://crazy.smallyu.net/">crazy.smallyu.net</a> （疯狂版）</li>
 </ul>
 <p>在疯狂版上，我可以随心所欲发布任何想说的内容，应该没人会关注到。</p>
 ]]></content>
