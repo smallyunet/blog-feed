@@ -3,11 +3,7 @@ const state = {
   sources: [],
   filter: "all",
   generatedAt: null,
-  visibleCount: 0,
 };
-
-const pageSize = 80;
-let autoLoadFrame = 0;
 
 const els = {
   list: document.getElementById("feed-list"),
@@ -64,9 +60,7 @@ function renderMeta(items) {
   const source = state.filter === "all"
     ? "全部"
     : state.sources.find((item) => item.id === state.filter)?.label || state.filter;
-  const visibleCount = Math.min(state.visibleCount, items.length);
-  const progress = items.length > visibleCount ? ` · 已显示 ${visibleCount} 条` : "";
-  els.meta.textContent = `${source} · ${items.length} 条${progress} · ${formatFullDate(state.generatedAt)}`;
+  els.meta.textContent = `${source} · ${items.length} 条 · ${formatFullDate(state.generatedAt)}`;
 }
 
 function articleItem(item) {
@@ -97,33 +91,9 @@ function microItem(item) {
   `;
 }
 
-function cancelAutoLoad() {
-  if (!autoLoadFrame) return;
-  cancelAnimationFrame(autoLoadFrame);
-  autoLoadFrame = 0;
-}
-
-function scheduleAutoLoad(items) {
-  cancelAutoLoad();
-  if (state.visibleCount >= items.length) return;
-
-  autoLoadFrame = requestAnimationFrame(() => {
-    autoLoadFrame = 0;
-    const nextItems = filteredItems();
-    state.visibleCount = Math.min(state.visibleCount + pageSize, nextItems.length);
-    render();
-  });
-}
-
 function render() {
   const items = filteredItems();
-  if (state.visibleCount === 0) {
-    state.visibleCount = Math.min(pageSize, items.length);
-  } else {
-    state.visibleCount = Math.min(state.visibleCount, items.length);
-  }
   renderMeta(items);
-  scheduleAutoLoad(items);
 
   if (!items.length) {
     els.list.innerHTML = "<li class=\"list-group-item empty-row\">No items.</li>";
@@ -131,7 +101,6 @@ function render() {
   }
 
   els.list.innerHTML = items
-    .slice(0, state.visibleCount)
     .map((item) => item.type === "micro" ? microItem(item) : articleItem(item))
     .join("");
 }
@@ -145,9 +114,7 @@ function escapeHtml(value) {
 }
 
 function setFilter(filter) {
-  cancelAutoLoad();
   state.filter = filter;
-  state.visibleCount = 0;
   for (const button of els.tabs.querySelectorAll(".filter-tab")) {
     button.setAttribute("aria-selected", String(button.dataset.filter === filter));
   }
