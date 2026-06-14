@@ -7,12 +7,12 @@ const state = {
 };
 
 const pageSize = 80;
+let autoLoadFrame = 0;
 
 const els = {
   list: document.getElementById("feed-list"),
   meta: document.getElementById("feed-meta"),
   tabs: document.getElementById("filter-tabs"),
-  loadMore: document.getElementById("load-more"),
   loadingTemplate: document.getElementById("loading-template"),
 };
 
@@ -97,14 +97,22 @@ function microItem(item) {
   `;
 }
 
-function updateLoadMore(items) {
-  if (!els.loadMore) return;
-  const hasMore = state.visibleCount < items.length;
-  els.loadMore.hidden = !hasMore;
-  if (hasMore) {
-    const remaining = items.length - state.visibleCount;
-    els.loadMore.textContent = `加载更多（剩余 ${remaining} 条）`;
-  }
+function cancelAutoLoad() {
+  if (!autoLoadFrame) return;
+  cancelAnimationFrame(autoLoadFrame);
+  autoLoadFrame = 0;
+}
+
+function scheduleAutoLoad(items) {
+  cancelAutoLoad();
+  if (state.visibleCount >= items.length) return;
+
+  autoLoadFrame = requestAnimationFrame(() => {
+    autoLoadFrame = 0;
+    const nextItems = filteredItems();
+    state.visibleCount = Math.min(state.visibleCount + pageSize, nextItems.length);
+    render();
+  });
 }
 
 function render() {
@@ -115,7 +123,7 @@ function render() {
     state.visibleCount = Math.min(state.visibleCount, items.length);
   }
   renderMeta(items);
-  updateLoadMore(items);
+  scheduleAutoLoad(items);
 
   if (!items.length) {
     els.list.innerHTML = "<li class=\"list-group-item empty-row\">No items.</li>";
@@ -137,21 +145,13 @@ function escapeHtml(value) {
 }
 
 function setFilter(filter) {
+  cancelAutoLoad();
   state.filter = filter;
   state.visibleCount = 0;
   for (const button of els.tabs.querySelectorAll(".filter-tab")) {
     button.setAttribute("aria-selected", String(button.dataset.filter === filter));
   }
   render();
-}
-
-function initLoadMore() {
-  if (!els.loadMore) return;
-  els.loadMore.addEventListener("click", () => {
-    const items = filteredItems();
-    state.visibleCount = Math.min(state.visibleCount + pageSize, items.length);
-    render();
-  });
 }
 
 function initFilters() {
@@ -185,7 +185,6 @@ function initMenuToggle() {
 async function init() {
   renderLoading();
   initFilters();
-  initLoadMore();
   initMenuToggle();
 
   try {
