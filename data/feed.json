@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-06-29T03:08:48.845Z",
+  "generatedAt": "2026-06-30T03:06:48.351Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 634,
+  "count": 635,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "为什么 DM KOL 的 GTM 策略一定是 “对” 的",
+      "url": "https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/",
+      "publishedAt": "2026-06-29T06:24:59.000Z",
+      "updatedAt": "2026-06-29T08:15:54.321Z"
+    },
     {
       "id": "blog:https://smallyu.net/2026/06/18/AI-Agent%E7%9C%8B%E6%9D%BF/",
       "type": "article",
