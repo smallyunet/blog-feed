@@ -4,9 +4,21 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-06-30T03:06:48.351Z</updated>
+  <updated>2026-07-01T03:07:51.035Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
+  <entry>
+    <title>不要Copy Trading</title>
+    <link href="https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/"/>
+    <id>blog-crazy:https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/</id>
+    <published>2026-06-30T07:09:12.000Z</published>
+    <updated>2026-06-30T07:09:32.104Z</updated>
+    <category term="疯狂版"/>
+    <summary type="html"><![CDATA[<p>来理解一下Copy Trading的本质是什么。</p>
+<p>本质就是我什么都不需要懂，我看到一个人有钱，我想直接跟着对方赚钱，抄近路、走近道、抄作业。</p>
+<p>假如Copy]]></summary>
+    <content type="html"><![CDATA[<p>来理解一下Copy Trading的本质是什么。</p><p>本质就是我什么都不需要懂，我看到一个人有钱，我想直接跟着对方赚钱，抄近路、走近道、抄作业。</p><p>假如Copy Trading真的能赚钱，有几个人靠这个赚到钱的？</p><p>有几个人靠抄作业抄成学霸的？</p><p>我来直接给 Copy Trading 定性：</p><ol><li>Copy Trading 赚不到钱</li><li>Copy Trading 的动机本质上是骨子里的懒惰，世界从来不会给懒惰的人超预期的奖励</li></ol>]]></content>
+  </entry>
   <entry>
     <title>为什么 DM KOL 的 GTM 策略一定是 “对” 的</title>
     <link href="https://smallyu.net/2026/06/29/%E4%B8%BA%E4%BB%80%E4%B9%88DM-KOL%E7%9A%84GTM%E7%AD%96%E7%95%A5%E4%B8%80%E5%AE%9A%E6%98%AF%E2%80%9C%E5%AF%B9%E2%80%9D%E7%9A%84/"/>
@@ -2547,7 +2559,7 @@
     <link href="https://smallyu.net/2024/05/26/%E5%8F%91%E5%B8%81%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9/"/>
     <id>blog:https://smallyu.net/2024/05/26/%E5%8F%91%E5%B8%81%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%82%B9/</id>
     <published>2024-05-26T14:31:26.000Z</published>
-    <updated>2025-06-19T03:30:33.131Z</updated>
+    <updated>2026-06-30T07:15:33.012Z</updated>
     <category term="博客"/>
     <summary type="html"><![CDATA[<p>首先关于《炒币投资的小 tips》再补充两点：</p>
 <ol>
@@ -3354,7 +3366,7 @@
     <link href="https://smallyu.net/2023/03/15/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%82%92%E5%B8%81%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B8%BB%E6%84%8F/"/>
     <id>blog:https://smallyu.net/2023/03/15/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%82%92%E5%B8%81%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B8%BB%E6%84%8F/</id>
     <published>2023-03-15T10:38:01.000Z</published>
-    <updated>2025-06-19T03:30:33.131Z</updated>
+    <updated>2026-06-30T07:16:22.262Z</updated>
     <category term="博客"/>
     <summary type="html"><![CDATA[<p>最近很长时间我都被贫穷的痛苦困扰，但我不认为炒币是一个获得财富的好办法。尤其是短线操作，以及各种加杠杆的合约交易。</p>
 <p>币圈就像一个充满金钱诱惑的赌场，各大交易所、各种 DeFi Dapp]]></summary>
