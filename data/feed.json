@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-04T03:04:05.625Z",
+  "generatedAt": "2026-07-05T03:05:20.091Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 636,
+  "count": 637,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "分享一个 Polymarket 的 BTC 5分钟策略",
+      "url": "https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
+      "publishedAt": "2026-07-04T17:32:20.000Z",
+      "updatedAt": "2026-07-04T17:38:00.955Z"
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/",
       "type": "article",
