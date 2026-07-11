@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-10T03:04:29.915Z",
+  "generatedAt": "2026-07-11T03:02:51.401Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 637,
+  "count": 638,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "做 Polymarket 项目踩的坑",
+      "url": "https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/",
+      "publishedAt": "2026-07-10T11:53:28.000Z",
+      "updatedAt": "2026-07-10T11:53:28.685Z"
+    },
     {
       "id": "blog-b:https://b.smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
       "type": "article",
