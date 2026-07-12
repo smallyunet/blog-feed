@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-11T03:02:51.401Z",
+  "generatedAt": "2026-07-12T03:03:33.400Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 638,
+  "count": 639,
   "items": [
+    {
+      "id": "blog-b:https://b.smallyu.net/2026/07/11/%E6%88%91%E6%9C%89%E6%B2%A1%E6%9C%89%E6%B5%AA%E8%B4%B9%E5%BE%88%E5%A4%9A%E5%B9%B4/",
+      "type": "article",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
+      "title": "我有没有浪费很多年",
+      "url": "https://b.smallyu.net/2026/07/11/%E6%88%91%E6%9C%89%E6%B2%A1%E6%9C%89%E6%B5%AA%E8%B4%B9%E5%BE%88%E5%A4%9A%E5%B9%B4/",
+      "publishedAt": "2026-07-11T14:24:21.000Z",
+      "updatedAt": "2026-07-11T14:45:43.629Z"
+    },
     {
       "id": "blog:https://smallyu.net/2026/07/10/%E5%81%9APolymarket%E9%A1%B9%E7%9B%AE%E8%B8%A9%E7%9A%84%E5%9D%91/",
       "type": "article",
