@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-15T03:02:30.886Z",
+  "generatedAt": "2026-07-16T03:03:06.057Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 640,
+  "count": 641,
   "items": [
+    {
+      "id": "micro:4979295078",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://github.com/smallyunet/blog-micro/issues/1#issuecomment-4979295078",
+      "publishedAt": "2026-07-15T09:58:17Z",
+      "updatedAt": "2026-07-15T09:58:17Z",
+      "summaryHtml": "<p>我发现自己天然看不起中文撸毛KOL，因为有两个雷点：中文、撸毛。 但是我也不清楚为什么。他们大概率比我有钱、有人气、有影响力、有人“求”、过得好，但我依然觉得自己内心对他们充满鄙夷。</p>",
+      "contentHtml": "<p>我发现自己天然看不起中文撸毛KOL，因为有两个雷点：中文、撸毛。</p>\n<p>但是我也不清楚为什么。他们大概率比我有钱、有人气、有影响力、有人“求”、过得好，但我依然觉得自己内心对他们充满鄙夷。</p>\n",
+      "year": 2026
+    },
     {
       "id": "micro:4954632814",
       "type": "micro",
