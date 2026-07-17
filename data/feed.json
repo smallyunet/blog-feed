@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-16T03:03:06.057Z",
+  "generatedAt": "2026-07-17T03:02:46.905Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,31 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 641,
+  "count": 643,
   "items": [
+    {
+      "id": "micro:4992205265",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://github.com/smallyunet/blog-micro/issues/1#issuecomment-4992205265",
+      "publishedAt": "2026-07-16T13:06:10Z",
+      "updatedAt": "2026-07-16T13:06:10Z",
+      "summaryHtml": "<p>人的成功有两种。一种是一下子做对了一件很大的事情。另一种是连续做对了很多小事。</p>",
+      "contentHtml": "<p>人的成功有两种。一种是一下子做对了一件很大的事情。另一种是连续做对了很多小事。</p>\n",
+      "year": 2026
+    },
+    {
+      "id": "blog-b:https://b.smallyu.net/2026/07/16/%E6%88%91%E4%BB%8E%E7%8E%8B%E5%9E%A0%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%AF%BE%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%88AI%E7%89%88%EF%BC%89/",
+      "type": "article",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
+      "title": "我从王垠的计算机科学课学到了什么（AI版）",
+      "url": "https://b.smallyu.net/2026/07/16/%E6%88%91%E4%BB%8E%E7%8E%8B%E5%9E%A0%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%AF%BE%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%88AI%E7%89%88%EF%BC%89/",
+      "publishedAt": "2026-07-16T11:59:44.000Z",
+      "updatedAt": "2026-07-16T12:04:38.859Z"
+    },
     {
       "id": "micro:4979295078",
       "type": "micro",
