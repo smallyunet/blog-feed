@@ -4,20 +4,33 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-07-17T08:35:38.840Z</updated>
+  <updated>2026-07-18T03:02:10.165Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
+  <entry>
+    <title>不要用自动雨伞</title>
+    <link href="https://crazy.smallyu.net/2026/07/17/%E4%B8%8D%E8%A6%81%E7%94%A8%E8%87%AA%E5%8A%A8%E9%9B%A8%E4%BC%9E/"/>
+    <id>blog-crazy:https://crazy.smallyu.net/2026/07/17/%E4%B8%8D%E8%A6%81%E7%94%A8%E8%87%AA%E5%8A%A8%E9%9B%A8%E4%BC%9E/</id>
+    <published>2026-07-17T09:55:14.000Z</published>
+    <updated>2026-07-17T09:55:41.927Z</updated>
+    <category term="疯狂版"/>
+    <summary type="html"><![CDATA[<p>自动雨伞是指那种，按一下会自动弹开、再按一下会自动收起（但不会自动把弹簧压回来那种）。</p>
+<p>最大的风险是很危险。</p>
+<p>这种伞很容易坏，第一次用是公司发的一个定制款，第二次用是买的小米挂牌的雨伞。</p>
+<p>结果小米的反而更不耐用，两三天就坏了。</p]]></summary>
+    <content type="html"><![CDATA[<p>自动雨伞是指那种，按一下会自动弹开、再按一下会自动收起（但不会自动把弹簧压回来那种）。</p><p>最大的风险是很危险。</p><p>这种伞很容易坏，第一次用是公司发的一个定制款，第二次用是买的小米挂牌的雨伞。</p><p>结果小米的反而更不耐用，两三天就坏了。</p><p>我怀疑坏掉最大的原因是我拎着那个挂绳一直甩着转圈。</p><p>但是这不重要，你肯定说轻拿轻放就不行了吗。</p><p>但是说明这种伞从设计之初就没有考虑好各种情况。</p><p>而且在伞坏掉的那一刻，大概率是你解开绳子、伞会自动弹出来的一刻。这一刻毫无疑问会打伤你自己的手指。更加严重的话，会弹开伤到你对面的人，或者路人。</p><p>所以以后，应该只用非自动的雨伞，也就是以前那种手动打开手动关闭的雨伞。</p><p>不要过于相信自动化。</p>]]></content>
+  </entry>
   <entry>
     <title>200 美元买来的教训</title>
     <link href="https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/"/>
     <id>blog:https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/</id>
     <published>2026-07-17T05:40:44.000Z</published>
-    <updated>2026-07-17T05:40:44.912Z</updated>
+    <updated>2026-07-17T15:28:45.919Z</updated>
     <category term="博客"/>
     <summary type="html"><![CDATA[<p>其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。</p>
 <p>但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。</p>
 <p>前情提要：《<a]]></summary>
-    <content type="html"><![CDATA[<p>其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。</p><p>但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。</p><p>前情提要：《<a href="https://b.smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/">分享一个 Polymarket 的 BTC 5分钟策略</a>》</p><p>真正试验这个策略的过程要远比文章写出来的复杂，花费了大量的时间和精力。但是在经过这样的尝试后，反而更加佐证了这个结论：策略不可以赚钱。也许周期性可以依靠运气赚钱，但是长期来看一定是负期望。</p><p>我没有时间和耐心去写复盘，就让 ChatGPT 完整总结了一下前因后果：</p><p><a href="https://hackmd.io/@tZioTx_3Q2y1b0QoZeNS1Q/B1iM2bPVGg">https://hackmd.io/@tZioTx_3Q2y1b0QoZeNS1Q/B1iM2bPVGg</a></p>]]></content>
+    <content type="html"><![CDATA[<p>其实我早就应该明白、或者已经明白这个道理：策略不可以赚钱。</p><p>但是由于工作原因，以及可能受到一些其他影响，我突发奇想开始去尝试 Polymarket 上的策略。</p><p>前情提要：《<a href="https://b.smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/">分享一个 Polymarket 的 BTC 5分钟策略</a>》</p><p>真正试验这个策略的过程要远比文章写出来的复杂，花费了大量的时间和精力。但是在经过这样的尝试后，反而更加佐证了这个结论：策略不可以赚钱。也许周期性可以依靠运气赚钱，但是长期来看一定是负期望。</p><p>我没有时间和耐心去写复盘，就让 ChatGPT 完整总结了一下前因后果：</p><p><a href="https://hackmd.io/@tZioTx_3Q2y1b0QoZeNS1Q/B1iM2bPVGg">https://hackmd.io/@tZioTx_3Q2y1b0QoZeNS1Q/B1iM2bPVGg</a></p><p>最后我再解释和强调一下标题里说的 “教训” 是指：不要抱有侥幸心理。当你知道 “策略不可以赚钱” 之后，也许偶然会想再试试、也许这一次会不一样、也许这样那样就可以，然后就会发现，最终不但没赚到钱，还赔了钱。这就是教训。</p>]]></content>
   </entry>
   <entry>
     <title>人的成功有两种。一种是一下子做对了一件很大的事情。另一种是连续做对了很多小事。</title>
@@ -99,7 +112,7 @@
     <link href="https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/</id>
     <published>2026-06-30T07:09:12.000Z</published>
-    <updated>2026-07-01T07:39:59.982Z</updated>
+    <updated>2026-07-04T17:36:19.130Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>来理解一下 Copy Trading 的本质是什么。</p>
 <p>本质就是我什么都不需要懂，我看到一个人有钱，我想直接跟着对方赚钱，抄近路、走近道、抄作业。</p>
@@ -143,7 +156,7 @@
     <link href="https://crazy.smallyu.net/2026/06/10/%E4%B8%8D%E8%A6%81%E5%96%9D%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/06/10/%E4%B8%8D%E8%A6%81%E5%96%9D%E6%97%A0%E7%B3%96%E5%8F%AF%E4%B9%90/</id>
     <published>2026-06-10T13:26:43.000Z</published>
-    <updated>2026-06-10T13:27:03.275Z</updated>
+    <updated>2026-07-04T17:36:19.131Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>无糖可乐的原理是，没有热量、没有能量，但是用了某种调料，让可乐喝起来甜味很足。</p>
 <p>那么喝了无糖可乐 -&gt; 你的肚子以为吃了高热量食物 -&gt; 开始分泌很多消化液 -&gt; 肚子饿的更快了 -&gt; 下一顿报复性饮食；</p>
@@ -238,7 +251,7 @@
     <link href="https://crazy.smallyu.net/2026/05/23/%E7%94%B5%E5%BD%B1%E3%80%8A%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/05/23/%E7%94%B5%E5%BD%B1%E3%80%8A%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B/</id>
     <published>2026-05-23T03:53:04.000Z</published>
-    <updated>2026-05-23T04:08:21.227Z</updated>
+    <updated>2026-07-04T17:36:19.133Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>感人，还算好看，重点是不油腻，没有大起大和的国家情怀，也不会强调什么车马慢，非得把历史背景和科技条件摆到你眼前。大多数油腻和俗套的要点都没有。</p>
 <p>电影里真正的女主是谢南枝，最感人的故事也是谢南枝的行为。</p>
@@ -260,7 +273,7 @@
     <link href="https://crazy.smallyu.net/2026/05/10/%E5%9C%A8%E5%B8%81%E5%9C%88%E4%B8%8D%E8%A6%81%E5%81%9A%E6%92%B8%E6%AF%9B%E5%85%9A/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/05/10/%E5%9C%A8%E5%B8%81%E5%9C%88%E4%B8%8D%E8%A6%81%E5%81%9A%E6%92%B8%E6%AF%9B%E5%85%9A/</id>
     <published>2026-05-10T13:52:20.000Z</published>
-    <updated>2026-05-10T14:10:03.318Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>2022 年、2023 年，OP 和 ARB 大火，让很多撸毛的玩家挣到了大笔的钱。因为 Layer 2 概念火热、配合着币圈的牛市，空投的代币价格超预期的高。</p>
 <p>2024 年，我从 __]]></summary>
@@ -271,7 +284,7 @@
     <link href="https://crazy.smallyu.net/2026/04/25/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%97/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/25/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%97/</id>
     <published>2026-04-25T07:24:57.000Z</published>
-    <updated>2026-04-29T08:20:53.423Z</updated>
+    <updated>2026-07-04T17:36:19.131Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>结婚生子，家长里短，柴米油盐，就是俗。<br>胸无大志，安居乐业，就是俗。<br>趋炎附势，人云亦云，为生计奔波，就是俗。   ]]></summary>
     <content type="html"><![CDATA[<p>结婚生子，家长里短，柴米油盐，就是俗。<br>胸无大志，安居乐业，就是俗。<br>趋炎附势，人云亦云，为生计奔波，就是俗。    </p><p>自从工作以来，工作上的一些小钱比如打车、吃饭、个别网络上的开销之类，从来都懒得填工单、去申请报销。为了那么点小钱刻意报销，太无聊了，不值得操作，很俗。</p><p>想跳槽就跳槽，为了工资忍受垃圾工作、垃圾同事，被每个月挣那点钱拿捏，唯唯诺诺，就是俗。</p><p>代码里出现中文，就是俗。</p><p>为了结婚找对象、百般讨好女性，实际上是一种价值交换的思路，就是俗。</p><p>平凡市井、人间百态，都是俗。</p>]]></content>
@@ -294,7 +307,7 @@
     <link href="https://crazy.smallyu.net/2026/04/23/%E5%B8%8C%E6%9C%9B%E5%B0%91%E5%B9%B4%E6%97%B6%E5%80%99%E7%9A%84%E4%BC%99%E4%BC%B4%E9%83%BD%E8%83%BD%E6%9C%89%E6%89%80%E6%88%90/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/23/%E5%B8%8C%E6%9C%9B%E5%B0%91%E5%B9%B4%E6%97%B6%E5%80%99%E7%9A%84%E4%BC%99%E4%BC%B4%E9%83%BD%E8%83%BD%E6%9C%89%E6%89%80%E6%88%90/</id>
     <published>2026-04-23T15:39:35.000Z</published>
-    <updated>2026-04-23T15:41:35.300Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>我希望我所有的小时候认识的人都可以事业有成，这样我就不会没有朋友了</p>
 <p>我为什么没有朋友呢，我离开了小小的村子，初中去了稍微大一点的村子，高中去了县城，大学去了省会城市，毕业后工作去了首都。</p>
@@ -316,7 +329,7 @@
     <link href="https://crazy.smallyu.net/2026/04/12/%E5%8F%B7%E7%A7%B0%E6%9C%89%E4%BB%A3%E7%A0%81%E6%B4%81%E7%99%96%E7%9A%84%E9%83%BD%E6%98%AF%E8%8F%9Cx/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/12/%E5%8F%B7%E7%A7%B0%E6%9C%89%E4%BB%A3%E7%A0%81%E6%B4%81%E7%99%96%E7%9A%84%E9%83%BD%E6%98%AF%E8%8F%9Cx/</id>
     <published>2026-04-12T10:49:34.000Z</published>
-    <updated>2026-04-12T11:01:32.516Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>别人用 1 个小时，你用 3]]></summary>
     <content type="html"><![CDATA[<p>别人用 1 个小时，你用 3 个小时，然后说你有代码洁癖，那就是菜x。</p><p>所谓的代码洁癖，是一个标签，是效率低的代名词和挡箭牌。</p><p>有人说自己有代码洁癖，然后另一个人马上附和，我也有代码洁癖，似乎这是一件很光荣的事情。</p><p>差生文具多。我们哪怕是小孩子，都知道整理好自己的物品。再不聪明的人，也知道数落自己关心的东西。</p><p>代码洁癖是人类与生俱来的、生来就有的性格。但是刻意把这种整理的爱好当作优点，就是技术菜、能力差、效率低。</p><p>负责任地说，用代码洁癖来形容自己的人，绝对属于团队里面不是真正干活的那一类人。</p><p>干活需要时间，出结果需要时间。</p><p>你把时间用在代码洁癖上，算什么。</p><p>想起来 Pell 团队同事了。想起来就生气。一群菜鸟。</p>]]></content>
@@ -326,7 +339,7 @@
     <link href="https://crazy.smallyu.net/2026/04/11/%E5%B0%BD%E9%87%8F%E8%BF%98%E6%98%AF%E4%B8%8D%E8%A6%81%E8%B4%9F%E5%80%BA/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/11/%E5%B0%BD%E9%87%8F%E8%BF%98%E6%98%AF%E4%B8%8D%E8%A6%81%E8%B4%9F%E5%80%BA/</id>
     <published>2026-04-11T10:54:41.000Z</published>
-    <updated>2026-04-11T12:36:17.622Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>几个月前，因为这些原因，开始尝试贷款、分期、超前消费：</p>
 <ol>
@@ -339,7 +352,7 @@
     <link href="https://crazy.smallyu.net/2026/04/08/X%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B0%81%E6%88%91%E7%9A%84%E8%B4%A6%E5%8F%B7/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/08/X%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B0%81%E6%88%91%E7%9A%84%E8%B4%A6%E5%8F%B7/</id>
     <published>2026-04-08T08:12:11.000Z</published>
-    <updated>2026-04-08T08:54:16.587Z</updated>
+    <updated>2026-07-04T17:36:19.127Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>比起主动选择的自由，更让人安心的是被动选择。当选择很多的时候，反而不知道该用哪个平台。当被迫排除掉一些选项后，反而清晰了</p>
 <p>2025年 7月 14日，X 第一次封了我的账号：</p>
@@ -364,7 +377,7 @@
     <link href="https://crazy.smallyu.net/2026/04/03/%E6%8B%BC%E5%A4%9A%E5%A4%9A%EF%BC%8C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%EF%BC%8C%E5%8D%8E%E8%8E%B1%E5%A3%AB/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/04/03/%E6%8B%BC%E5%A4%9A%E5%A4%9A%EF%BC%8C%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%EF%BC%8C%E5%8D%8E%E8%8E%B1%E5%A3%AB/</id>
     <published>2026-04-03T11:33:03.000Z</published>
-    <updated>2026-04-03T11:36:27.751Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>拼多多是低配版本的淘宝。</p>
 <p>蜜雪冰城是低配版本的奈雪。</p>
@@ -380,7 +393,7 @@
     <link href="https://crazy.smallyu.net/2026/03/31/%E7%9C%9F%E7%9B%B8%E5%92%8C%E7%9C%9F%E8%AF%9D%E4%B8%8D%E9%87%8D%E8%A6%81/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/03/31/%E7%9C%9F%E7%9B%B8%E5%92%8C%E7%9C%9F%E8%AF%9D%E4%B8%8D%E9%87%8D%E8%A6%81/</id>
     <published>2026-03-31T07:52:40.000Z</published>
-    <updated>2026-03-31T08:02:33.617Z</updated>
+    <updated>2026-07-04T17:36:19.133Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>很简单的一件事情，在网上购物写了个差评，商家说退款不退货删除差评，我同意了。</p>
 <img src="1.png" width="40%"]]></summary>
@@ -405,7 +418,7 @@
     <link href="https://crazy.smallyu.net/2026/03/13/OpenClaw%EF%BC%88%E9%BE%99%E8%99%BE%EF%BC%89%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/03/13/OpenClaw%EF%BC%88%E9%BE%99%E8%99%BE%EF%BC%89%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8/</id>
     <published>2026-03-13T06:30:58.000Z</published>
-    <updated>2026-03-15T15:59:43.602Z</updated>
+    <updated>2026-07-04T17:36:19.127Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>最近 OpenClaw]]></summary>
     <content type="html"><![CDATA[<p>最近 OpenClaw 很火，甚至中国大陆的互联网大厂、各地政府都发布和制定了关于龙虾的产品和政策指导。</p><p>为什么龙虾这么火呢，原因很简单，因为现在市场和政府都需要一个热点，无论有没有用，近几年持续的经济低迷已经让大家处于极度的压抑之中，急需要一个不破坏现有利益链又低成本的新的产品来炒作和好玩。</p><p>大家快憋疯了。</p><p>要说 OpenClaw 真的有没有用、能不能提高效率，答案是毫无用处，都是噱头。中国大陆的人力成本远低于 AI。</p>]]></content>
@@ -415,7 +428,7 @@
     <link href="https://crazy.smallyu.net/2026/03/10/Idlen%E5%92%8CMystNodes/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/03/10/Idlen%E5%92%8CMystNodes/</id>
     <published>2026-03-10T09:53:21.000Z</published>
-    <updated>2026-03-28T04:29:11.136Z</updated>
+    <updated>2026-07-04T17:36:19.111Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>经过实际测试，这点钱真的不值得挣，千万不要尝试，我已经放弃。所有类似这种广告费的 “被动收入” 都不值得尝试。</p>
 <p>因为 Idlen]]></summary>
@@ -426,7 +439,7 @@
     <link href="https://crazy.smallyu.net/2026/03/07/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E4%BC%9A%E5%88%B0%E4%BA%BA%E6%80%A7%E7%9A%84%E8%B4%AA%E5%A9%AA/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/03/07/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%93%E4%BC%9A%E5%88%B0%E4%BA%BA%E6%80%A7%E7%9A%84%E8%B4%AA%E5%A9%AA/</id>
     <published>2026-03-06T16:21:54.000Z</published>
-    <updated>2026-03-06T17:33:24.689Z</updated>
+    <updated>2026-07-04T17:36:19.127Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>我有一个 iMac 电脑，具体配置是 iMac 2024 24寸 10+10核 32g+512g。这个配置很高了，内存属于顶配。官方售价 1.7万，减去国补 1.5万。</p>
 <p>今天我把电脑挂在了京东闲置和闲鱼上，两个平台都是瞬间有人出价 9000]]></summary>
@@ -471,7 +484,7 @@
     <link href="https://crazy.smallyu.net/2026/02/23/%E2%80%9C%E5%BA%95%E5%B1%82%E4%BA%BA%E2%80%9D%E5%AF%B9%E4%BA%BA%E8%84%89%E7%9A%84%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/02/23/%E2%80%9C%E5%BA%95%E5%B1%82%E4%BA%BA%E2%80%9D%E5%AF%B9%E4%BA%BA%E8%84%89%E7%9A%84%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5/</id>
     <published>2026-02-23T13:15:50.000Z</published>
-    <updated>2026-02-23T13:16:47.123Z</updated>
+    <updated>2026-07-04T17:36:19.129Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>有些人总觉得“人脉”重要，实际上他们所谓的人脉是指狐朋狗友，整天闲的没事一起吃吃喝喝，就算是人脉了。</p>
 <p>还有的人对于 “交情”]]></summary>
@@ -482,7 +495,7 @@
     <link href="https://crazy.smallyu.net/2026/02/20/%E7%BB%93%E5%A9%9A%E6%97%A9%E7%9A%84%E4%BA%BA%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B%E9%83%BD%E5%B7%AE/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/02/20/%E7%BB%93%E5%A9%9A%E6%97%A9%E7%9A%84%E4%BA%BA%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B%E9%83%BD%E5%B7%AE/</id>
     <published>2026-02-20T11:40:15.000Z</published>
-    <updated>2026-02-20T11:41:42.228Z</updated>
+    <updated>2026-07-04T17:36:19.134Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>学习一门技术，就比如读大学或者读研究生，得两三年的时间，然后再用两三年的时间去实际使用、磨练，整体下来五六年就过去了。</p>
 <p>18 岁高三，22 岁本科，哪怕本科直接工作，也得到 25]]></summary>
@@ -545,7 +558,7 @@
     <link href="https://crazy.smallyu.net/2026/02/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BC%A0%E7%BB%9F%E9%81%93%E7%90%86/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/02/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BC%A0%E7%BB%9F%E9%81%93%E7%90%86/</id>
     <published>2026-01-31T16:09:21.000Z</published>
-    <updated>2026-01-31T16:11:56.523Z</updated>
+    <updated>2026-07-04T17:36:19.131Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<ol>
 <li>“自古以来”、“传统” 意味着朴素、过时。</li>
@@ -582,7 +595,7 @@
     <link href="https://crazy.smallyu.net/2026/01/28/%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E6%95%A2%E7%94%9F%E5%AD%A9%E5%AD%90/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/01/28/%E4%B8%8D%E7%90%86%E8%A7%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E6%95%A2%E7%94%9F%E5%AD%A9%E5%AD%90/</id>
     <published>2026-01-28T06:51:54.000Z</published>
-    <updated>2026-02-20T11:40:43.858Z</updated>
+    <updated>2026-07-04T17:36:19.130Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>无法理解身家不过百万（现金）的人敢生孩子。</p>
 <ul>
@@ -597,7 +610,7 @@
     <link href="https://crazy.smallyu.net/2026/01/27/%E4%B8%8D%E8%83%BD%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9A%84%E9%80%BB%E8%BE%91/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/01/27/%E4%B8%8D%E8%83%BD%E7%90%86%E8%A7%A3%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E7%9A%84%E9%80%BB%E8%BE%91/</id>
     <published>2026-01-27T12:53:11.000Z</published>
-    <updated>2026-02-20T11:40:47.375Z</updated>
+    <updated>2026-07-04T17:36:19.130Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>从事先买菜到做饭，至少需要一到两个小时的时间才能完成做饭、吃饭这件事情。</p>
 <p>美团上拼单只需15块钱就能想吃什么吃什么，不但好吃、样式多，而且不需要花费自己的任何时间。</p>
@@ -610,7 +623,7 @@
     <link href="https://crazy.smallyu.net/2026/01/27/%E5%85%84%E5%BC%9F%E3%80%81%E9%97%BA%E8%9C%9C/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2026/01/27/%E5%85%84%E5%BC%9F%E3%80%81%E9%97%BA%E8%9C%9C/</id>
     <published>2026-01-27T05:08:43.000Z</published>
-    <updated>2026-02-20T11:40:53.311Z</updated>
+    <updated>2026-07-04T17:36:19.131Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>兄弟和闺蜜都是乌合之众的别名。</p>
 <p>凡是声称好兄弟、铁哥们、闺蜜一类关系的人，关系在5年以上、无话不谈，大概率：</p>
@@ -723,7 +736,7 @@
     <link href="https://crazy.smallyu.net/2025/11/23/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/11/23/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4/</id>
     <published>2025-11-23T14:03:58.000Z</published>
-    <updated>2026-02-24T07:44:51.645Z</updated>
+    <updated>2026-07-04T17:36:19.118Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>经过多年的工作，我终于明白一件事情：</p>
 <blockquote>
@@ -737,7 +750,7 @@
     <link href="https://crazy.smallyu.net/2025/11/22/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%90%83%E8%B4%B9%E5%A4%A7%E5%8E%A8/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/11/22/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%90%83%E8%B4%B9%E5%A4%A7%E5%8E%A8/</id>
     <published>2025-11-22T13:30:20.000Z</published>
-    <updated>2025-11-27T17:16:13.055Z</updated>
+    <updated>2026-07-04T17:36:19.126Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>因为桌子太小了，特别窄，吃的一点都不体面。</p>
 <p>不得不承认费大厨的菜好吃，而且不贵，人均不到]]></summary>
@@ -772,7 +785,7 @@
     <link href="https://crazy.smallyu.net/2025/11/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4GPT%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84AI%E6%A8%A1%E5%9E%8B/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/11/19/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4GPT%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A5%BD%E7%9A%84AI%E6%A8%A1%E5%9E%8B/</id>
     <published>2025-11-19T10:00:34.000Z</published>
-    <updated>2026-06-18T13:53:57.305Z</updated>
+    <updated>2026-07-04T17:36:19.113Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>因为 BTC 是世界上最好的加密货币。</p>
 <br>
@@ -820,7 +833,7 @@
     <link href="https://crazy.smallyu.net/2025/11/06/%E5%85%B3%E9%97%ADChatGPT%E7%9A%84memory%E5%8A%9F%E8%83%BD/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/11/06/%E5%85%B3%E9%97%ADChatGPT%E7%9A%84memory%E5%8A%9F%E8%83%BD/</id>
     <published>2025-11-06T03:24:49.000Z</published>
-    <updated>2025-11-27T17:16:13.049Z</updated>
+    <updated>2026-07-04T17:36:19.114Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>ChatGPT 在对话的过程中有一个特点，就是会倾向于说你喜欢听的话，以及赞同你说的话。</p>
 <p>当你想要询问 ChatGPT 一些建议的时候，比如接下来做什么 side project，或者对于某种项目方向的看法，ChatGPT]]></summary>
@@ -831,7 +844,7 @@
     <link href="https://crazy.smallyu.net/2025/11/04/%E8%AF%84%E4%BB%B7%E3%80%8A%E4%BA%BA%E5%A6%BB%E7%BA%A6%E4%BC%9A%E6%8C%87%E5%8D%97%E3%80%8B/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/11/04/%E8%AF%84%E4%BB%B7%E3%80%8A%E4%BA%BA%E5%A6%BB%E7%BA%A6%E4%BC%9A%E6%8C%87%E5%8D%97%E3%80%8B/</id>
     <published>2025-11-04T15:52:44.000Z</published>
-    <updated>2026-02-20T11:41:03.454Z</updated>
+    <updated>2026-07-04T17:36:19.134Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>最近有一个 PDF 文档很火，标题是《人妻约会指南》，作者叫李新野，文档发布于他的中文博客，文章链接是 <a href="https://sinyalee.com/blog/?p=1068"]]></summary>
     <content type="html"><![CDATA[<p>最近有一个 PDF 文档很火，标题是《人妻约会指南》，作者叫李新野，文档发布于他的中文博客，文章链接是 <a href="https://sinyalee.com/blog/?p=1068" target="_blank">原文链接</a>。</p><p>由于文档标题的粗俗与文章内容的理工逻辑形成巨大反差，这个文档很快走红网络。</p><p>本来是吃瓜性质的文档，但是点开他的博客后，看过他的其他一些技术类文章，发现这个人不简单。他是程序员，现在在做交易量化一类的工作。</p><p>我认为，他之所以会有现在的爱情观、价值观，是因为过往家庭方面的经历，以及自己并没有遇到过真正的 “爱情”，一直在以利益驱动结识女性导致的。</p><p>他在文档中说，女性一直在向男性索取什么，小时候抄作业、要零花钱，长大了之后还是会要 “零花钱”、要情绪价值。他说的没错，事实就是这样。</p><p>但是他忽略了另一个事实，在女性向男性索取的同时，男性也在向女性索取着什么。</p><p>我是说，比如女朋友打扮的漂漂亮亮的去逛街，男性会有一种莫名的自豪感。再比如男性同样在索求女性的时间和陪伴等。</p><p>感情双方，相互索取是事实，但关键不在于 “索取”，而在于 “相互”。</p>]]></content>
@@ -892,7 +905,7 @@
     <link href="https://crazy.smallyu.net/2025/10/08/%E5%9B%9E%E9%A1%BE%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%8E%E6%9B%B9%E4%BA%91%E9%87%91%E5%90%B5%E6%9E%B6%E4%BA%8B%E4%BB%B6/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/10/08/%E5%9B%9E%E9%A1%BE%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%8E%E6%9B%B9%E4%BA%91%E9%87%91%E5%90%B5%E6%9E%B6%E4%BA%8B%E4%BB%B6/</id>
     <published>2025-10-08T12:00:00.000Z</published>
-    <updated>2026-02-20T11:40:56.936Z</updated>
+    <updated>2026-07-04T17:36:19.132Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<h3 id="个人感受"><a href="#个人感受" class="headerlink"]]></summary>
     <content type="html"><![CDATA[<h3 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h3><p>最近看了郭德纲和曹云金吵架的原文，大概明白了。</p><p>曹云金觉得自己能耐大，在外面也能混的好，郭德纲应该不惜一切放低姿态挽留才对，自己并没低头。</p><p>郭德纲觉得自己是师父，曹云金应该低头来求和，恳求留在德云社才对，不冷不热的算是什么态度？</p><p>所以两人都有能耐，都不肯低头。 </p><p>我太理解这件事情了，在我的公司和团队里，真正有实力的往往忍耐程度很低，很容易离职，因为真的走了也能找到工作，一点不能受气。反而那种平庸的程序员，在团队里稳定性最强。</p><h3 id="事件回顾"><a href="#事件回顾" class="headerlink" title="事件回顾"></a>事件回顾</h3><ul><li><p>2016 年 8 月 31 日，郭德纲修订家谱，把曹云金评价为叛徒、欺师灭祖：</p><ul><li>微博原文：<a href="https://weibo.com/1854283601/E65sElMja" target="_blank">链接</a></li><li>微博原文存档：<a href="https://web.archive.org/web/20251008123332/https://weibo.com/1854283601/E65sElMja" target="_blank">链接</a></li></ul></li><li><p>2016 年 9 月 5 日，曹云金发布 6000 字长文《是时候了，也该做个了结了。》：</p><ul><li>微博文章原文：<a href="https://weibo.com/ttarticle/p/show?id=2309404016334328459355" target="_blank">链接</a></li><li>微博文章原文存档：<a href="https://web.archive.org/web/20240618201622/https://weibo.com/ttarticle/p/show?id=2309404016334328459355" target="_blank">链接</a></li></ul></li><li><p>2016 年 9 月 25 日，郭德纲发布 7000 字长文回应《天涯犹在，不诉薄凉。》：</p><ul><li>微博文章原文：<a href="https://weibo.com/ttarticle/p/show?id=2309404023390749994756&mark_id=999_reallog_mark_ad%3A999%7CWeiboADNatural" target="_blank">链接</a></li><li>微博文章原文归档：<a href="https://web.archive.org/web/20251008123830/http://web.archive.org/screenshot/https://weibo.com/ttarticle/p/show?id=2309404023390749994756&mark_id=999_reallog_mark_ad%3A999%7CWeiboADNatural" target="_blank">链接</a></li></ul></li><li><p>2016 年 9 月 25 日，曹云金再次发布文章回应《我的涵养在愤怒之前已经用完了！》：</p><ul><li>微博文章原文：<a href="https://weibo.com/ttarticle/p/show?id=2309404023620081964041" target="_blank">链接</a></li><li>微博文章原文归档：<a href="https://web.archive.org/web/20251008124619/http://web.archive.org/screenshot/https://weibo.com/ttarticle/p/show?id=2309404023620081964041" target="_blank">链接</a></li></ul></li></ul><h3 id="个人分析"><a href="#个人分析" class="headerlink" title="个人分析"></a>个人分析</h3><p>在郭德纲的家谱中，把曹云金评价为欺师灭祖、令人发指。</p><p>但是在郭德纲 7000 字的回应文章中，开头就又成了 “师徒不睦”。</p><p>单从语气态度上，很明显郭德纲的语气软了。如果是曹云金单方面的错误，郭德纲没有必要大费周章写长文回应，一口咬定是叛徒就行了，明明是卖师求荣的事情，怎么又成 “不睦” 了。</p><p>所以郭德纲的家谱，其实是对内震慑徒弟用的，不是对外攻击曹云金用的。</p><p>曹云金真的掌握一些郭德纲的事情，郭德纲也不敢完全撕破脸。就这么回事。</p>]]></content>
@@ -1599,7 +1612,7 @@
     <link href="https://crazy.smallyu.net/2025/06/21/%E3%80%8A%E5%A4%B1%E8%B4%A5%E6%9C%8B%E5%85%8B%E7%9A%84%E4%B8%80%E8%BE%88%E5%AD%90%E3%80%8B%E5%89%8D%E8%A8%80/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/06/21/%E3%80%8A%E5%A4%B1%E8%B4%A5%E6%9C%8B%E5%85%8B%E7%9A%84%E4%B8%80%E8%BE%88%E5%AD%90%E3%80%8B%E5%89%8D%E8%A8%80/</id>
     <published>2025-06-21T03:14:29.000Z</published>
-    <updated>2025-08-16T03:27:11.335Z</updated>
+    <updated>2026-07-04T17:36:19.115Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>7 年就是一辈子。从 2018 年在 <a href="https://smallyu.net/">smallyu.net</a> 上发布第一篇博客文章开始，到 2025 年学习王垠老师的计算机科学课，已经整整 7 年的时间。</p>
 <p>这 7]]></summary>
@@ -1715,7 +1728,7 @@
     <link href="https://crazy.smallyu.net/2025/04/27/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%8A%E5%A4%A7%E9%83%A8%E5%88%86%E8%B5%84%E4%BA%A7%E6%8D%A2%E6%88%90%E6%AF%94%E7%89%B9%E5%B8%81/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2025/04/27/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%8A%E5%A4%A7%E9%83%A8%E5%88%86%E8%B5%84%E4%BA%A7%E6%8D%A2%E6%88%90%E6%AF%94%E7%89%B9%E5%B8%81/</id>
     <published>2025-04-27T14:57:59.000Z</published>
-    <updated>2025-11-27T17:16:13.057Z</updated>
+    <updated>2026-07-04T17:36:19.134Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>首先不想把大量资产以人民币的形式放在银行。</p>
 <p>一方面预期人民币的汇率会降低，如果美国的关税进一步提高，人民币的汇率变动会很大。哪怕没有政策因素的影响，长期来看，人民币的价值也是不如美元的。</p>
@@ -3386,7 +3399,7 @@
     <link href="https://crazy.smallyu.net/2023/05/11/%E4%B8%8D%E8%A6%81%E5%8E%BB%E6%92%B8%E5%AE%A0%E5%BA%97/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2023/05/11/%E4%B8%8D%E8%A6%81%E5%8E%BB%E6%92%B8%E5%AE%A0%E5%BA%97/</id>
     <published>2023-05-11T10:04:23.000Z</published>
-    <updated>2025-11-29T05:05:33.804Z</updated>
+    <updated>2026-07-04T17:36:19.119Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>以前看到一个段子，原图找了好久没找着，大概内容是，有个网友试着花钱买爱情，4000]]></summary>
     <content type="html"><![CDATA[<p>以前看到一个段子，原图找了好久没找着，大概内容是，有个网友试着花钱买爱情，4000 块钱，质量比较高的那种。然后网友发现，虽然小姐姐本人和照片里一样漂亮，身材也好，但满满的科技感。脸上、腿上，捏不起一点肉。如果让她跟你互动，她虽然会很配合你的要求，说一些话之类，但是言语之间、表情上都觉得，她有一些不耐烦，想要赶紧完事的感觉，然后这个网友就感慨说，她是没有感情的，不像活生生的人，更像是一种工具,不是一段太好的体验。</p><p>然后下面还有评论打趣说，你给我 4000 块钱，我保证像个活生生的人 :P</p><p>这让我想到去撸宠店的经历，凡是做买卖的，似乎都会出现这样的情况。平时在各种小视频里看到小奶猫、小柴犬，觉得这些宠物怎么这么可爱啊！然后实际上去了猫舍、狗屋，就会发现这些宠物根本不搭理你，因为你是陌生人。</p><p>第一次去猫舍就感觉被坑了，因为猫不让抱，店员说以前的客人对猫太凶了，导致很多猫脾气都不好，容易生气。然后再仔细一看，每只猫都哭丧着脸，一副被迫营业的表情，不是在睡觉就是躲得人远远的。</p><p>你可以给猫喂吃的，它们就会过来吃，也可以拿逗猫棒勾引它们，但是你会发现，它们的眼睛不会看你，因为不认识你，它们看着的是你手里的食物。它们不会钻到你手里让你摸头，更不会对着你笑。虽然各种猫都有，都是纯种，都很好看，但是没有感情。</p><p>让人意外的是店里的羊驼特别温顺，看起来没有脾气，亲近人，还吃我的鞋带。</p><img src="1.jpg" width="50%"><p>不过这玩意儿就怕它跟你面对面的时候，它吐口水。羊驼生气了会吐口水，看过那样的视频，总是有那样的阴影在，就也不敢多看羊驼。</p><p>狗屋也是类似的感觉，纯种柴犬，长得很英俊，会自己找你手上拿的食物，但是不多看你一眼。小柴犬很活泼，满地打架。</p><img src="2.jpg" width="50%">]]></content>
@@ -3441,7 +3454,7 @@
     <link href="https://crazy.smallyu.net/2023/03/26/%E4%B8%80%E4%B8%AA%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A1%E7%AE%97%E5%99%A8/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2023/03/26/%E4%B8%80%E4%B8%AA%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A1%E7%AE%97%E5%99%A8/</id>
     <published>2023-03-26T14:31:04.000Z</published>
-    <updated>2025-11-28T16:11:06.251Z</updated>
+    <updated>2026-07-04T17:36:19.118Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>由于计算机行业特殊的职业规则，假设做一个在最悲观情况下的打算：在 35 岁之前攒出父母全部的养老金。</p>
 <p>这种计划的动机涉及到一些严肃但会让人感觉非常消极问题，确实不想展开去讨论了。</p>
@@ -5980,7 +5993,7 @@ li:nth-child(even) {
     <link href="https://crazy.smallyu.net/2021/02/11/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2021/02/11/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E5%85%B1%E4%BA%AB%E8%AE%A1%E5%88%92/</id>
     <published>2021-02-11T06:48:31.000Z</published>
-    <updated>2025-11-29T05:06:23.530Z</updated>
+    <updated>2026-07-04T17:36:19.119Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink"]]></summary>
     <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>两个月前写下了这篇草稿，直到今天（04.10）想起来，觉得还是发出来。当初不发的原因之一是，我没能真正把项目维护起来。想把一个软件做到人人喜欢、人人适用其实是一件很有难度的事情，而且博客主题这样的东西受限于各种环境依赖的版本，还是不折腾了。借用《妖猫传》里的一句话，“事是假的，情是真的”。祝好。</p><h3 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h3><p>现在用的博客主题，模仿自王垠的博客 <a href="http://www.yinwang.org/">当然我在扯淡</a>。几年前，我把模仿的博客主题开源在 Github 上（<a href="https://github.com/smallyunet/hexo-theme-yinwang">smallyunet&#x2F;hexo-theme-yinwang</a>）。虽然我经常更新和优化自己博客的主题，但是开源的仓库已经很久没有更新了。</p><p>一方面，不确定模仿主题算不算侵权。另一方面，我一直心怀芥蒂的是，我并没有想要依靠这样的项目来“赚星星”，我甚至不希望这样的项目出现在我的 GitHub 主页上，于是不得不开始自定义主页的项目面板。总的来说，因为这个东西不是我的，就像《夏洛特烦恼》中的夏洛，穿越回 1997 年后依靠周杰伦的作品火遍西虹市，可他终究发现那些东西不是他的。他只是做了一个很漂亮的梦。</p><p>现在，我想继续维护这个将博客主题开源的项目。</p><p>捂着不让人用、让人用着不舒服，这显然都不对，愚昧不会阻止真理的传播，好用的东西也应该被更好的利用。我甚至希望，这个主题样式可以成为一种标志，标志受到王垠鼓舞的人们，标志拥有正直和善良品质的人们，标志拥有真知灼见的人们。</p><p>这不是宗教情绪，我们不盲目信任和崇拜某人，我们崇尚 <a href="http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning">理性的力量</a>（by yinwang）。我们不拉帮结派，不宣扬、不强制别人使用或者不使用什么，不强制别人相信或者不相信什么。我们以某人为“偶像”，自诩为某人的“粉丝”，不是因为我们归属于某种团体的莫名其妙的优越感，而是因为我们从他那里学到了很多可贵而难以言喻的东西。当我们在说“喜欢某人”的时候，其实想表达的不是某人有多么厉害，而是在说，“我们从他那里学到了一些东西，因为会的这些东西，所以我们也很厉害”。</p><p>很意外今天突然想到了这样一件事情，有点意外，有点惊喜，有点害怕和担心。今天刚好是农历大年三十，新年快乐。</p>]]></content>
@@ -6709,7 +6722,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2020/05/03/%E5%85%B3%E4%BA%8E%E4%BA%BA%E7%9A%84%E8%83%BD%E5%8A%9B%EF%BC%8C%E7%BB%8F%E9%AA%8C%EF%BC%8C%E5%92%8C%E2%80%A6%E2%80%A6/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2020/05/03/%E5%85%B3%E4%BA%8E%E4%BA%BA%E7%9A%84%E8%83%BD%E5%8A%9B%EF%BC%8C%E7%BB%8F%E9%AA%8C%EF%BC%8C%E5%92%8C%E2%80%A6%E2%80%A6/</id>
     <published>2020-05-03T13:50:15.000Z</published>
-    <updated>2025-11-27T17:16:13.049Z</updated>
+    <updated>2026-07-04T17:36:19.115Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>最近好像没什么特别的事情，工作内容比起以前变多了，占据了很多时间，工作之外的空隙时间，似乎没有太多精力去关注学习。</p>
 <p>这个博客上的内容，大概就那么两三种，一种是想到和学习到的技术方面的东西，再一种是工作和生活方面的事情，遇到的或者想到的引起了一些感悟的事情，第三]]></summary>
@@ -6741,7 +6754,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2020/03/08/%E6%96%B0%E7%9A%84%E5%BE%81%E7%A8%8B/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2020/03/08/%E6%96%B0%E7%9A%84%E5%BE%81%E7%A8%8B/</id>
     <published>2020-03-07T17:00:29.000Z</published>
-    <updated>2025-11-27T17:16:13.054Z</updated>
+    <updated>2026-07-04T17:36:19.117Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>我犹豫了很久，要不要把这些东西写下来，应该什么时候写，现在写合不合适……如果我无法在自己的独立博客上写自己想写的东西，我就被生活上的事情束缚了，博客也变的没有意义。我总是担心，如果我的同事、领导偶然看见我在博客上写想要离开公司，或者原来早就产生离开公司的想法，对公司有什么不]]></summary>
     <content type="html"><![CDATA[<p>我犹豫了很久，要不要把这些东西写下来，应该什么时候写，现在写合不合适……如果我无法在自己的独立博客上写自己想写的东西，我就被生活上的事情束缚了，博客也变的没有意义。我总是担心，如果我的同事、领导偶然看见我在博客上写想要离开公司，或者原来早就产生离开公司的想法，对公司有什么不满之类；或者担心招聘者会偶然看到我对公司的不忠诚，看到我说公司的坏话，会不会对新的公司也产生一大堆意见，毕竟我总是把网址写在简历中。</p><p>也可能世上本无事，我杞人忧天了。</p><h3 id="期望"><a href="#期望" class="headerlink" title="期望"></a>期望</h3><p>我期望的工作，可能需要一点实力，也需要一点运气。当HR问我想要跳槽的原因，我一开始的说辞是想要寻找更好的机会，不是现在的公司不好，而是想要更好。具体说就是想要找更好的发展前景，技术上或者业务上能够有更多的成长……直到HR问我，你现在的平台机会不多，前景不好，工作不饱满吗？</p><p>我重新思考了这个问题，关于为什么想要跳槽。我没有撒谎，现在的公司确实还好，没什么能说得上不好的地方，当然也说不上多好。我想了想，真正的原因应该是我作为开发人员，作为技术支持这样的一个角色，对于目前公司的情况来说，难堪大用。公司更需要的是能拉客户的销售，能写专利的技术研究员（投标的时候要指标），而不是能把脏活干好的熟练的工人。</p><p>我有算不上丰富的开发经验，从还有静态网站和动态网站之分的那个年代，接触到互联网之后对广阔的网络世界充满兴趣。从三极管到模拟电路、数字电路、集成芯片、单片机、汇编语言、树莓派、C语言、Java、JavaScript、MVC、MVVM、FP……除了网站开发，稍微知道一点安卓的玩法、用H5开发原生应用的混合开发、基于Node.js的桌面应用开发……大学读电子类专业并没有阻碍我对计算机的了解，反而知道了一些可能计算机专业不会学的电子电路、通信编码之类。其实我真正懂得东西很少，只是稍微知道一点概念，但内心深处总是充满力量，有一种莫名的热情，让我感觉自以为能够解决更多问题，事实上我也确实希望能有更多机会解决更多的问题，希望在技术上有长足的发展。</p><p>有时候会感觉世界的不公，我无法想象不会处理SVN冲突、搞不清二维数组的前端，没用过Docker、不懂RBAC权限模型的后端，不知道<code>String.valueOf()</code>和<code>(String)</code>区别、可以直接往<code>JSONObject</code>里传<code>Map</code>的Java开发，是合格的程序员。我可以解决同事无法解决的技术问题，有超过同事的技术广度，甚至有更多努力工作的意愿，但仅仅因为我的工作年限较短，别人的工作时间较长，我只能拿与我工作经验相当的工资。实际上我接触Web开发的时间可能比某些小作坊的面试官还要长（真的遇到过）。也许我的同事都是幸运者，在互联网还未退潮的时候上了船。</p><p>我并不是想说我是自大狂，我很清楚自己没有足够的实力，不懂JVM调优、背不下设计模式、没看过Spring或Redis的源码、不懂操作系统原理（看过两本书，抄过一本，没记住），不懂算法（见medium死），没有好的学历（双非）。我也不知道我会点什么。但是当面试官问我ECharts的用法、“事务的隔离级别”、“死锁产生的条件”、“Map的原理”，虽然有点卡壳……我同样有些犹豫，在百度用中文搜的第一条就能找到答案的问题，需不需要记下来呢，世界上的问题那么多，知识那么多。</p><h3 id="面向面试学习"><a href="#面向面试学习" class="headerlink" title="面向面试学习"></a>面向面试学习</h3><p>对于需不需要记下来的问题，我希望自然而然的解决。就像做开发，踩的坑多了，就成了资深程序员，看的报错日志多了，就能瞬间明白异常原因。我可以多面几个试，在面试过程中了解公司会问哪些问题，期望怎么样的回答，不断积累经验，顺便锻炼一下语言表达能力，在面试结束后弥补不足，补充知识。正好最近的疫情提供了绝佳的机会，几乎所有公司都无法现场面试，可以通过电话、视频面试，我在公司连假都不用请，除了稍微在心态上有点影响工作外，但保证不会落下进度。</p><p>到这里我又担心如果新的公司看到这些话，会不会认为我面试是刷经验去了，毕竟我真的会在简历上写下网址，大多数情况不会有人看，但万一呢……</p><p>目前对我来说，发展前景比工资重要太多了。所以最最最理想的情况，是进一家能叫得上名字的公司。折中一点的情况，是公司招牌和目前的公司相当，但是工资比现在高一点，底线是两千，试用期加上跳槽离职入职工作交接之类的成本，两千应该不夸张。再差一点的情况，再差一点，就是我被公司裁了，不得不找其他工作，又没有合适的机会，随便找了一家保证生存。</p><h3 id="最后的稻草"><a href="#最后的稻草" class="headerlink" title="最后的稻草"></a>最后的稻草</h3><p>我想说说目前的公司。当时在学校还是秋招阶段的时候，HR就跟我说，应届生两年后考虑涨工资。其实我从一开始就明白，我不可能等两年。开始实习后，带我的导师告诉我，他们一年涨一次。</p><p>所以在我被迫换部门后（当时公司效益不好，裁了很多人，未入职的应届生走了一半），我想着一定要等过个年，心里还在期望和等待的有两件事，一个是年终奖，一个是涨工资（普调）。倒不是在意能拿到手多少钱，而是想要了解一下公司的运作方式，绩效怎么回事，年终奖怎么发，是否和绩效挂钩，涨工资是怎么谈或者怎么样，还幻想着领导会不会谈个话，聊聊工作情况，表现怎样，未来计划，然后我应该说些什么，怎么表现，让领导看到我的能力。没有经历过那些，就想经历一下。</p><p>事实当然是令人失望的。我了解到部门内有的人三四年都没有涨过工资，暂且接受，但是到过年放假前的最后一天，我感到异常生气，因为没有年终奖。往年都有，就今年没有，这一点也能理解，公司效益不好。问题是公司当天把本季度的绩效工资发了下来（我们下季度发本季度绩效），这不是公司良心发现要发当前季度绩效了，如果想发，就应该和当月工资一起发。我当时瞬间想到的是“朝三暮四”这个词，公司把我们当猴养，我们在人格和尊严上都应该感受到侮辱，我无法继续忍受这种任人宰割的状况，没有公告，没有制度，没有任何形式的通知，关于工资、普调、年终奖，我希望知道规则，我希望知道该如何努力，该如何表现，问题是没有，全部没有，全看领导心情。我无法凭自己的努力改善自己的收入，这就是我在目前公司看不到希望的地方。我甚至都不明白我的直属领导到底是谁，到现在HR系统里还指向一个已经离职的名字，他什么时候来和我谈一谈工资的事情呢？</p><h3 id="区块链不是风口"><a href="#区块链不是风口" class="headerlink" title="区块链不是风口"></a>区块链不是风口</h3><p>最近几天初次知道了“共有知识”和“公共知识”的区别，重新明白了一下《皇帝的新装》里面的道理。提区块链是因为我目前属于区块链团队，公司也把一部分资源押在了区块链上。</p><pre><code class="html">我知道区块链没什么用。你知道区块链没什么用。他知道区块链没什么用。</code></pre><p>这是共有知识。</p><pre><code class="html">我知道 你和他都知道 区块链没什么用。你知道 我和他都知道 区块链没什么用。他知道 我和你都知道 区块链没什么用。</code></pre><p>这是公共知识。</p><p>大家都知道，但不清楚别人知不知道的，叫共有知识。当有人跨越了中间的沟壑，告诉所有人他们的想法是一致的，然后大家都知道了大家的想法是一致的，共有知识就变成了公共知识。目前的区块链就处于共有知识的阶段，因为很多人都说区块链怎样怎样，你无法不认可它的价值，如果你说区块链没有价值，那就是你不懂，你没有智慧，你见识浅薄，你……连位置最高的管理者都发话了，你能说你看不到区块链的价值吗？</p><p>和《皇帝的新装》的故事对比一下，是不是有一些相似之处？</p><h3 id="新的征程"><a href="#新的征程" class="headerlink" title="新的征程"></a>新的征程</h3><p>所以我真的犹豫了很久，要不要写下这些东西，关于当前的公司，关于新的目标，从年前放假的最后一天，直到现在。</p><p>我需要新的机会。</p>]]></content>
@@ -6891,7 +6904,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2019/06/30/%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2019/06/30/%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C/</id>
     <published>2019-06-30T12:27:07.000Z</published>
-    <updated>2025-11-27T17:16:13.051Z</updated>
+    <updated>2026-07-04T17:36:19.116Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>李诞写的一本书《笑场》的序言里有一句话：“人生确实没有意义，但人生有美”。</p>
 <h3 id="相同的错误"><a href="#相同的错误" class="headerlink"]]></summary>
@@ -6923,7 +6936,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2019/04/21/%E5%AE%9E%E4%B9%A03.5%E4%B8%AA%E6%9C%88%E4%B9%8B%E9%99%85/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2019/04/21/%E5%AE%9E%E4%B9%A03.5%E4%B8%AA%E6%9C%88%E4%B9%8B%E9%99%85/</id>
     <published>2019-04-21T09:47:49.000Z</published>
-    <updated>2025-11-27T17:16:13.052Z</updated>
+    <updated>2026-07-04T17:36:19.116Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>想用《卧虎藏龙》里的台词来描述心情：“被一种寂灭的悲哀环绕”。</p>
 <h3 id="工作"><a href="#工作" class="headerlink"]]></summary>
@@ -6956,7 +6969,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2019/03/14/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E8%A6%81%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2019/03/14/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E8%A6%81%E8%A1%8C%E4%B8%87%E9%87%8C%E8%B7%AF/</id>
     <published>2019-03-14T03:24:19.000Z</published>
-    <updated>2025-11-27T17:16:13.052Z</updated>
+    <updated>2026-07-04T17:36:19.116Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<img src="mayun.png" width="90%" height="90%">
 
@@ -6991,7 +7004,7 @@ time: society and culture change very slowly. </p>
     <link href="https://crazy.smallyu.net/2019/01/25/%E5%AE%9E%E4%B9%A00.5%E4%B8%AA%E6%9C%88%E5%A4%8D%E7%9B%98/"/>
     <id>blog-crazy:https://crazy.smallyu.net/2019/01/25/%E5%AE%9E%E4%B9%A00.5%E4%B8%AA%E6%9C%88%E5%A4%8D%E7%9B%98/</id>
     <published>2019-01-25T13:28:28.000Z</published>
-    <updated>2025-11-27T17:16:13.052Z</updated>
+    <updated>2026-07-04T17:36:19.116Z</updated>
     <category term="疯狂版"/>
     <summary type="html"><![CDATA[<p>0.5个月，2个星期，共经手2个工单。</p>
 <h3 id="第1个工单"><a href="#第1个工单" class="headerlink"]]></summary>
