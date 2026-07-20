@@ -4,9 +4,22 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-07-19T03:03:40.614Z</updated>
+  <updated>2026-07-20T03:03:37.849Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
+  <entry>
+    <title>突然想起来一个小事。曾经有一个运营人员，给我们的项目反馈是 “太卡了”，没有任何更多的信息和细节。 这样的描述真的太主观...</title>
+    <link href="https://github.com/smallyunet/blog-micro/issues/1#issuecomment-5014731946"/>
+    <id>micro:5014731946</id>
+    <published>2026-07-19T06:39:30Z</published>
+    <updated>2026-07-19T06:39:30Z</updated>
+    <category term="微博"/>
+    <summary type="html"><![CDATA[<p>突然想起来一个小事。曾经有一个运营人员，给我们的项目反馈是 “太卡了”，没有任何更多的信息和细节。 这样的描述真的太主观、太模糊了，作为技术人员根本无从下手。至少得说一下在什么设备上、访问哪个页面、网络状态如何、具体哪个组件、卡顿的现象是样式错位还是加载延迟或者别的什么。 这不是在对非技术人员提过分的要求。你可以这么想...</p>]]></summary>
+    <content type="html"><![CDATA[<p>突然想起来一个小事。曾经有一个运营人员，给我们的项目反馈是 “太卡了”，没有任何更多的信息和细节。</p>
+<p>这样的描述真的太主观、太模糊了，作为技术人员根本无从下手。至少得说一下在什么设备上、访问哪个页面、网络状态如何、具体哪个组件、卡顿的现象是样式错位还是加载延迟或者别的什么。</p>
+<p>这不是在对非技术人员提过分的要求。你可以这么想，去大街上随便拉一个人过来，没有读过书、没有文化、没有学历、没有工作、没有职场经验、没有收入，随便一个人，是不是都能说得出 “太卡了” 这三个字？而作为一个混迹于职场、身处 web3 行业的资深牛马，竟然说出了是个人都能说出的话？你和 anybody 的区别在哪里？</p>
+]]></content>
+  </entry>
   <entry>
     <title>不要用自动雨伞</title>
     <link href="https://crazy.smallyu.net/2026/07/17/%E4%B8%8D%E8%A6%81%E7%94%A8%E8%87%AA%E5%8A%A8%E9%9B%A8%E4%BC%9E/"/>
