@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-21T03:02:57.955Z",
+  "generatedAt": "2026-07-22T03:03:01.637Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 646,
+  "count": 647,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/07/21/%E4%B8%8D%E8%A6%81%E7%94%A8hackmd-io/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "不要用 hackmd.io",
+      "url": "https://crazy.smallyu.net/2026/07/21/%E4%B8%8D%E8%A6%81%E7%94%A8hackmd-io/",
+      "publishedAt": "2026-07-21T10:59:34.000Z",
+      "updatedAt": "2026-07-21T11:04:00.428Z"
+    },
     {
       "id": "micro:5014731946",
       "type": "micro",
@@ -62,7 +72,7 @@
       "title": "200 美元买来的教训",
       "url": "https://smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/",
       "publishedAt": "2026-07-17T05:40:44.000Z",
-      "updatedAt": "2026-07-17T15:28:45.919Z"
+      "updatedAt": "2026-07-21T10:52:55.356Z"
     },
     {
       "id": "micro:4992205265",
