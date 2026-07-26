@@ -82,9 +82,14 @@ function microItem(item) {
     <li class="list-group-item micro-item" id="${escapeHtml(item.id)}">
       <time class="item-date" datetime="${escapeHtml(item.publishedAt)}">${formatDate(item.publishedAt)}</time>
       <div class="item-main">
-        <div class="item-summary micro-content">${item.contentHtml || item.summaryHtml || ""}</div>
+        <div class="item-summary micro-content">${item.summaryHtml || item.contentHtml || ""}</div>
       </div>
       <div class="item-aside">
+        <a
+          class="micro-original-link"
+          href="${escapeHtml(item.url)}"
+          aria-label="查看 ${formatDate(item.publishedAt)} 微博原文"
+        >原文</a>
         <span class="source-badge">${escapeHtml(item.sourceLabel)}</span>
       </div>
     </li>

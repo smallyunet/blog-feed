@@ -216,7 +216,9 @@ async function loadMicroItems() {
     })),
   );
 
-  return commentsByYear.flatMap(({ year, comments }) => asArray(comments).map((comment, index) => {
+  return commentsByYear.flatMap(({ year, comments }) => asArray(comments)
+    .sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+    .map((comment, index) => {
     const contentHtml = microHtml(comment.body || "");
     const text = stripHtml(contentHtml);
     return {
@@ -226,7 +228,7 @@ async function loadMicroItems() {
       sourceLabel: microSource.label,
       sourceUrl: microSource.url,
       title: "",
-      url: comment.html_url || `${microSource.url}#${year}-${index + 1}`,
+      url: `${microSource.url}#${year}-${comments.length - index}`,
       publishedAt: comment.created_at,
       updatedAt: comment.updated_at || comment.created_at,
       summaryHtml: `<p>${escapeHtml(truncateText(text, 160))}</p>`,
