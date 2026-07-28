@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-27T03:04:31.504Z",
+  "generatedAt": "2026-07-28T03:02:46.340Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 648,
+  "count": 649,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "一个比特币 Taproot 脚本漏洞开始的调查",
+      "url": "https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/",
+      "publishedAt": "2026-07-27T16:50:05.000Z",
+      "updatedAt": "2026-07-27T16:50:40.498Z"
+    },
     {
       "id": "micro:5078389470",
       "type": "micro",
@@ -762,14 +772,14 @@
       "updatedAt": "2025-11-17T14:37:26.258Z"
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2025/11/16/%E5%88%9D%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%89%B0%E8%8B%A6%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%A4%E4%BB%B6%E4%BA%8B/",
+      "id": "blog-crazy:https://crazy.smallyu.net/2025/11/16/%E5%88%9D%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%89%B0%E8%8B%A6%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%A4%E4%BB%B6%E4%BA%8B/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
       "title": "初中时期艰苦生活的两件事",
-      "url": "https://b.smallyu.net/2025/11/16/%E5%88%9D%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%89%B0%E8%8B%A6%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%A4%E4%BB%B6%E4%BA%8B/",
+      "url": "https://crazy.smallyu.net/2025/11/16/%E5%88%9D%E4%B8%AD%E6%97%B6%E6%9C%9F%E8%89%B0%E8%8B%A6%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%A4%E4%BB%B6%E4%BA%8B/",
       "publishedAt": "2025-11-16T15:46:14.000Z",
-      "updatedAt": "2026-03-02T09:09:31.190Z"
+      "updatedAt": "2026-07-27T17:35:36.205Z"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2025/11/10/web3%E5%B0%B1%E4%B8%9A%E6%8C%87%E5%8D%97/",
