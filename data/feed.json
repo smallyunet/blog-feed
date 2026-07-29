@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-07-28T03:02:46.340Z",
+  "generatedAt": "2026-07-29T03:02:39.271Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 649,
+  "count": 650,
   "items": [
+    {
+      "id": "micro:5105460608",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-11",
+      "publishedAt": "2026-07-28T14:29:03Z",
+      "updatedAt": "2026-07-28T14:29:03Z",
+      "summaryHtml": "<p>数据： 建一个比特币矿场需要 3000万美元 建一个 AI 算力中心需要 5亿美元</p>",
+      "contentHtml": "<p>数据：</p>\n<ol>\n<li>建一个比特币矿场需要 3000万美元</li>\n<li>建一个 AI 算力中心需要 5亿美元</li>\n</ol>\n",
+      "year": 2026
+    },
     {
       "id": "blog:https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/",
       "type": "article",
