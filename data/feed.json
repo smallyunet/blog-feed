@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-02T03:03:15.628Z",
+  "generatedAt": "2026-08-03T03:03:34.415Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 650,
+  "count": 651,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "PySonar2 如何帮助 AI 节省 Token",
+      "url": "https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
+      "publishedAt": "2026-08-02T16:32:47.000Z",
+      "updatedAt": "2026-08-02T16:38:41.516Z"
+    },
     {
       "id": "micro:5105460608",
       "type": "micro",
@@ -52,7 +62,7 @@
       "title": "一个比特币 Taproot 脚本漏洞开始的调查",
       "url": "https://smallyu.net/2026/07/28/%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81Taproot%E8%84%9A%E6%9C%AC%E6%BC%8F%E6%B4%9E%E5%BC%80%E5%A7%8B%E7%9A%84%E8%B0%83%E6%9F%A5/",
       "publishedAt": "2026-07-27T16:50:05.000Z",
-      "updatedAt": "2026-07-27T16:50:40.498Z"
+      "updatedAt": "2026-07-28T05:41:19.708Z"
     },
     {
       "id": "micro:5078389470",
@@ -1541,7 +1551,7 @@
       "title": "尝试开发一个最小 EVM 虚拟机",
       "url": "https://smallyu.net/2025/05/11/%E6%83%B3%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E6%9C%80%E5%B0%8FEVM%E8%99%9A%E6%8B%9F%E6%9C%BA/",
       "publishedAt": "2025-05-10T17:15:07.000Z",
-      "updatedAt": "2025-11-27T05:20:35.973Z"
+      "updatedAt": "2026-08-02T16:38:26.614Z"
     },
     {
       "id": "micro:2851125640",
