@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-04T03:02:56.683Z",
+  "generatedAt": "2026-08-05T03:02:37.368Z",
   "sources": [
     {
       "id": "blog",
@@ -1225,7 +1225,7 @@
       "title": "对 Psyche Network 项目的分析",
       "url": "https://smallyu.net/2025/08/01/%E5%AF%B9Psyche-Network%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%88%86%E6%9E%90/",
       "publishedAt": "2025-08-01T06:33:21.000Z",
-      "updatedAt": "2026-02-28T07:28:36.892Z"
+      "updatedAt": "2026-08-04T11:43:17.094Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2025/07/31/%E5%A4%B1%E4%B8%9A%E6%9C%9F%E9%97%B4%E7%9A%84Web3%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90%E8%AE%A1%E5%88%92/",
@@ -1398,7 +1398,7 @@
       "title": "如何开发一个比特币符文（Runes）协议",
       "url": "https://smallyu.net/2025/07/15/%E5%A6%82%E4%BD%95%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E6%AF%94%E7%89%B9%E5%B8%81%E7%AC%A6%E6%96%87%EF%BC%88Runes%EF%BC%89%E5%8D%8F%E8%AE%AE/",
       "publishedAt": "2025-07-15T14:00:00.000Z",
-      "updatedAt": "2025-11-09T09:22:13.424Z"
+      "updatedAt": "2026-08-04T11:43:16.823Z"
     },
     {
       "id": "blog:https://smallyu.net/2025/07/10/%E6%AF%94%E7%89%B9%E5%B8%81%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/",
@@ -1408,7 +1408,7 @@
       "title": "比特币脚本开发教程",
       "url": "https://smallyu.net/2025/07/10/%E6%AF%94%E7%89%B9%E5%B8%81%E8%84%9A%E6%9C%AC%E5%BC%80%E5%8F%91%E6%95%99%E7%A8%8B/",
       "publishedAt": "2025-07-09T16:42:10.000Z",
-      "updatedAt": "2025-11-09T09:22:13.451Z"
+      "updatedAt": "2026-08-04T11:43:16.647Z"
     },
     {
       "id": "blog:https://smallyu.net/2025/07/08/%E6%88%91%E4%BB%8E%E7%8E%8B%E5%9E%A0%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E8%A7%86%E9%A2%91%E7%8F%AD%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88/",
@@ -1478,7 +1478,7 @@
       "title": "Solana 智能合约开发教程 (1)",
       "url": "https://smallyu.net/2025/06/24/Solana%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B1/",
       "publishedAt": "2025-06-24T13:51:06.000Z",
-      "updatedAt": "2026-02-28T07:25:50.451Z"
+      "updatedAt": "2026-08-04T11:43:16.911Z"
     },
     {
       "id": "micro:2998812656",
@@ -1736,7 +1736,7 @@
       "title": "假如启动一个新的以太坊 PoS 网络",
       "url": "https://smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
       "publishedAt": "2025-01-28T15:26:40.000Z",
-      "updatedAt": "2025-07-26T07:05:15.980Z"
+      "updatedAt": "2026-08-04T11:38:27.312Z"
     },
     {
       "id": "micro:2615645926",
@@ -1811,7 +1811,7 @@
       "title": "发行加密货币的最好方式",
       "url": "https://smallyu.net/2025/01/10/%E5%8F%91%E8%A1%8C%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E6%9C%80%E5%A5%BD%E6%96%B9%E5%BC%8F/",
       "publishedAt": "2025-01-09T16:39:12.000Z",
-      "updatedAt": "2025-06-19T03:30:33.024Z"
+      "updatedAt": "2026-08-04T11:43:17.271Z"
     },
     {
       "id": "micro:2571574344",
@@ -1834,7 +1834,7 @@
       "title": "所有 BFT 共识的区块链都是中心化的",
       "url": "https://smallyu.net/2025/01/05/%E6%89%80%E6%9C%89-BFT-%E5%85%B1%E8%AF%86%E7%9A%84%E5%8C%BA%E5%9D%97%E9%93%BE%E9%83%BD%E6%98%AF%E4%B8%AD%E5%BF%83%E5%8C%96%E7%9A%84/",
       "publishedAt": "2025-01-05T03:57:59.000Z",
-      "updatedAt": "2025-11-09T09:22:13.450Z"
+      "updatedAt": "2026-08-04T11:43:16.732Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2024/12/31/this-year-2024/",
@@ -1880,7 +1880,7 @@
       "title": "对 2025 年区块链行业的预测",
       "url": "https://smallyu.net/2024/12/16/%E5%AF%B92025%E5%B9%B4%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A1%8C%E4%B8%9A%E7%9A%84%E9%A2%84%E6%B5%8B/",
       "publishedAt": "2024-12-16T15:04:43.000Z",
-      "updatedAt": "2025-06-19T03:30:33.069Z"
+      "updatedAt": "2026-08-04T11:43:17.357Z"
     },
     {
       "id": "micro:2541798988",
@@ -2038,7 +2038,7 @@
       "title": "为什么不要做智能合约开发和 DeFi 开发",
       "url": "https://smallyu.net/2024/09/11/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A6%81%E5%81%9A%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%92%8CDeFi%E5%BC%80%E5%8F%91/",
       "publishedAt": "2024-09-11T12:51:35.000Z",
-      "updatedAt": "2025-11-09T09:22:13.309Z"
+      "updatedAt": "2026-08-04T11:43:16.383Z"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2024/09/11/%E6%9C%80%E8%BF%91%E6%89%BE%E5%B7%A5%E4%BD%9C%E7%9A%84%E8%AE%B0%E5%BD%95/",
@@ -3288,7 +3288,7 @@
       "title": "不要小瞧 ChatGPT",
       "url": "https://smallyu.net/2023/03/30/%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%9E%A7-ChatGPT/",
       "publishedAt": "2023-03-30T09:09:36.000Z",
-      "updatedAt": "2025-11-09T09:22:13.309Z"
+      "updatedAt": "2026-08-04T11:43:17.182Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2023/03/26/%E4%B8%80%E4%B8%AA%E5%85%BB%E8%80%81%E9%87%91%E8%AE%A1%E7%AE%97%E5%99%A8/",
@@ -3374,7 +3374,7 @@
       "title": "为什么以太坊的私钥计算不可逆",
       "url": "https://smallyu.net/2023/02/20/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E7%A7%81%E9%92%A5%E8%AE%A1%E7%AE%97%E4%B8%8D%E5%8F%AF%E9%80%86/",
       "publishedAt": "2023-02-20T15:42:24.000Z",
-      "updatedAt": "2025-11-09T09:22:13.309Z"
+      "updatedAt": "2026-08-04T11:43:16.560Z"
     },
     {
       "id": "micro:1435866727",
@@ -3488,7 +3488,7 @@
       "title": "关于以太坊的私钥碰撞",
       "url": "https://smallyu.net/2023/01/18/%E5%85%B3%E4%BA%8E%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E7%A7%81%E9%92%A5%E7%A2%B0%E6%92%9E/",
       "publishedAt": "2023-01-18T07:27:25.000Z",
-      "updatedAt": "2025-11-09T09:22:13.311Z"
+      "updatedAt": "2026-08-04T11:44:00.456Z"
     },
     {
       "id": "micro:1376932613",
@@ -6739,7 +6739,7 @@
       "title": "基于 Java 的爬虫框架 WebCollector",
       "url": "https://smallyu.net/2019/08/10/%E5%9F%BA%E4%BA%8EJava%E7%9A%84%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6WebCollector/",
       "publishedAt": "2019-08-10T13:03:41.000Z",
-      "updatedAt": "2025-06-30T13:35:18.850Z"
+      "updatedAt": "2026-08-04T11:43:17.000Z"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2019/07/25/%E5%B7%A5%E4%BD%9C%E8%83%BD%E5%8A%9B%E4%BD%8E%E4%B8%8B%E7%9A%84%E8%A1%A8%E7%8E%B0/",
