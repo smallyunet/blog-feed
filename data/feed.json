@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-09T02:42:30.349Z",
+  "generatedAt": "2026-08-10T02:46:02.658Z",
   "sources": [
     {
       "id": "blog",
@@ -32,6 +32,16 @@
   "count": 651,
   "items": [
     {
+      "id": "blog:https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "预测市场生态的项目为什么难做",
+      "url": "https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/",
+      "publishedAt": "2026-08-09T15:14:31.000Z",
+      "updatedAt": "2026-08-09T15:14:12.911Z"
+    },
+    {
       "id": "blog:https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
       "type": "article",
       "source": "blog",
@@ -39,7 +49,7 @@
       "title": "PySonar2 如何帮助 AI 节省 Token",
       "url": "https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
       "publishedAt": "2026-08-02T16:32:47.000Z",
-      "updatedAt": "2026-08-02T16:38:41.516Z"
+      "updatedAt": "2026-08-09T04:36:03.375Z"
     },
     {
       "id": "micro:5105460608",
@@ -111,16 +121,6 @@
       "updatedAt": "2026-07-17T09:55:41.927Z"
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/",
-      "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
-      "title": "200 美元买来的教训",
-      "url": "https://b.smallyu.net/2026/07/17/200%E7%BE%8E%E5%85%83%E4%B9%B0%E6%9D%A5%E7%9A%84%E6%95%99%E8%AE%AD/",
-      "publishedAt": "2026-07-17T05:40:44.000Z",
-      "updatedAt": "2026-07-25T05:26:27.137Z"
-    },
-    {
       "id": "micro:4992205265",
       "type": "micro",
       "source": "micro",
@@ -190,14 +190,14 @@
       "updatedAt": "2026-07-10T11:53:28.685Z"
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
+      "id": "blog:https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog",
+      "sourceLabel": "博客",
       "title": "分享一个 Polymarket 的 BTC 5分钟策略",
-      "url": "https://b.smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
+      "url": "https://smallyu.net/2026/07/05/%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AAPolymarket%E7%9A%84BTC-5%E5%88%86%E9%92%9F%E7%AD%96%E7%95%A5/",
       "publishedAt": "2026-07-04T17:32:20.000Z",
-      "updatedAt": "2026-07-09T16:46:01.057Z"
+      "updatedAt": "2026-08-09T04:50:13.356Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/06/30/%E4%B8%8D%E8%A6%81Copy-Trading/",
@@ -665,14 +665,14 @@
       "updatedAt": "2026-01-25T08:05:22.061Z"
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/01/20/BitDoge/",
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/01/20/BitDoge/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
       "title": "BitDoge",
-      "url": "https://b.smallyu.net/2026/01/20/BitDoge/",
+      "url": "https://crazy.smallyu.net/2026/01/20/BitDoge/",
       "publishedAt": "2026-01-20T15:47:06.000Z",
-      "updatedAt": "2026-01-20T15:54:46.369Z"
+      "updatedAt": "2026-08-09T04:40:05.046Z"
     },
     {
       "id": "blog:https://smallyu.net/2026/01/15/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E6%AF%94%E5%B8%81%E5%9C%88%E6%9B%B4%E8%B5%8C%E5%9C%BA/",
@@ -1551,7 +1551,7 @@
       "title": "尝试开发一个最小 EVM 虚拟机",
       "url": "https://smallyu.net/2025/05/11/%E6%83%B3%E5%BC%80%E5%8F%91%E4%B8%80%E4%B8%AA%E6%9C%80%E5%B0%8FEVM%E8%99%9A%E6%8B%9F%E6%9C%BA/",
       "publishedAt": "2025-05-10T17:15:07.000Z",
-      "updatedAt": "2026-08-02T16:38:26.614Z"
+      "updatedAt": "2026-08-09T04:37:39.617Z"
     },
     {
       "id": "micro:2851125640",
