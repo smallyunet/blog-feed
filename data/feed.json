@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-18T02:23:48.342Z",
+  "generatedAt": "2026-08-19T02:25:27.756Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 654,
+  "count": 655,
   "items": [
+    {
+      "id": "blog-b:https://b.smallyu.net/2026/08/18/Proof-of-AI-Token-%E6%B6%88%E8%80%97%E9%87%8F/",
+      "type": "article",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
+      "title": "Proof of AI Token 消耗量",
+      "url": "https://b.smallyu.net/2026/08/18/Proof-of-AI-Token-%E6%B6%88%E8%80%97%E9%87%8F/",
+      "publishedAt": "2026-08-18T07:47:36.000Z",
+      "updatedAt": "2026-08-18T08:09:23.059Z"
+    },
     {
       "id": "blog:https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/",
       "type": "article",
@@ -704,14 +714,14 @@
       "updatedAt": "2026-01-25T08:05:22.061Z"
     },
     {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/01/20/BitDoge/",
+      "id": "blog-b:https://b.smallyu.net/2026/01/20/BitDoge/",
       "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
       "title": "BitDoge",
-      "url": "https://crazy.smallyu.net/2026/01/20/BitDoge/",
+      "url": "https://b.smallyu.net/2026/01/20/BitDoge/",
       "publishedAt": "2026-01-20T15:47:06.000Z",
-      "updatedAt": "2026-08-09T04:40:05.046Z"
+      "updatedAt": "2026-08-18T07:52:51.636Z"
     },
     {
       "id": "blog:https://smallyu.net/2026/01/15/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E6%AF%94%E5%B8%81%E5%9C%88%E6%9B%B4%E8%B5%8C%E5%9C%BA/",
@@ -1768,14 +1778,14 @@
       "year": 2025
     },
     {
-      "id": "blog:https://smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
+      "id": "blog-b:https://b.smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
       "type": "article",
-      "source": "blog",
-      "sourceLabel": "博客",
-      "title": "假如启动一个新的以太坊 PoS 网络",
-      "url": "https://smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
+      "title": "假如启动一个叫 Oiia Network 的以太坊 PoS 网络",
+      "url": "https://b.smallyu.net/2025/01/28/%E5%81%87%E5%A6%82%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%8F%AB-Oiia-Network-%E7%9A%84%E4%BB%A5%E5%A4%AA%E5%9D%8A-PoS-%E7%BD%91%E7%BB%9C/",
       "publishedAt": "2025-01-28T15:26:40.000Z",
-      "updatedAt": "2026-08-04T11:38:27.312Z"
+      "updatedAt": "2026-08-18T08:09:15.818Z"
     },
     {
       "id": "micro:2615645926",
