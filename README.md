@@ -29,4 +29,12 @@ Open `http://localhost:4000` after starting the local server.
 - `data/feed.json`: data used by the static page
 - `atom.xml`: aggregate Atom subscription feed
 
-The GitHub Actions workflow runs once per day and commits refreshed feed output when it changes.
+The GitHub Actions workflow rebuilds immediately when a source repository sends
+the `source_updated` repository dispatch event. A once-per-day schedule remains
+as a low-frequency fallback, and refreshed feed output is committed only when it
+changes.
+
+Source repositories use an Actions secret named
+`BLOG_FEED_DISPATCH_TOKEN`. It should be a fine-grained GitHub token limited to
+the `smallyunet/blog-feed` repository with `Contents: write`, which is the
+permission required to create a repository dispatch event.

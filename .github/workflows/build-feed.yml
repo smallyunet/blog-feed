@@ -2,8 +2,15 @@ name: Build feed
 
 on:
   workflow_dispatch:
+  repository_dispatch:
+    types:
+      - source_updated
   schedule:
     - cron: "0 2 * * *"
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
 
 permissions:
   contents: write
