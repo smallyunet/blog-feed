@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-24T02:29:14.082Z",
+  "generatedAt": "2026-08-25T02:25:45.484Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 658,
+  "count": 659,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/24/%E8%BA%AB%E5%AE%B6100%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%8C1000%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%94%9F%E5%AD%90/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "身家 100 万以下不要娶妻，1000 万以下不要生子",
+      "url": "https://crazy.smallyu.net/2026/08/24/%E8%BA%AB%E5%AE%B6100%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%8C1000%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%94%9F%E5%AD%90/",
+      "publishedAt": "2026-08-24T03:41:16.000Z",
+      "updatedAt": "2026-08-24T04:28:38.530Z"
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/20/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B7v2/",
       "type": "article",
