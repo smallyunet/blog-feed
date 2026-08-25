@@ -4,18 +4,18 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-08-25T14:02:37.235Z</updated>
+  <updated>2026-08-25T14:56:32.355Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
   <entry>
-    <title>测试</title>
+    <title>测试2</title>
     <link href="https://t.smallyu.net/#2026-17"/>
     <id>micro:5411508614</id>
     <published>2026-08-25T14:00:32Z</published>
-    <updated>2026-08-25T14:00:32Z</updated>
+    <updated>2026-08-25T14:01:48Z</updated>
     <category term="微博"/>
-    <summary type="html"><![CDATA[<p>测试</p>]]></summary>
-    <content type="html"><![CDATA[<p>测试</p>
+    <summary type="html"><![CDATA[<p>测试2</p>]]></summary>
+    <content type="html"><![CDATA[<p>测试2</p>
 ]]></content>
   </entry>
   <entry>
