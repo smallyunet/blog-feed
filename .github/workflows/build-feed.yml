@@ -34,8 +34,20 @@ jobs:
       - name: Build feed
         run: npm run build
 
+      - name: Notify Telegram about new items
+        id: telegram
+        continue-on-error: true
+        run: npm run notify:telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+
       - name: Commit generated feed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update feed"
-          file_pattern: data/feed.json atom.xml
+          file_pattern: data/feed.json data/telegram-state.json atom.xml
+
+      - name: Check Telegram delivery
+        if: steps.telegram.outcome == 'failure'
+        run: exit 1

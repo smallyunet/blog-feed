@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build-feed.mjs",
-    "serve": "python3 -m http.server 4000"
+    "notify:telegram": "node scripts/send-telegram.mjs",
+    "serve": "python3 -m http.server 4000",
+    "test": "node --test scripts/*.test.mjs"
   },
   "dependencies": {
     "fast-xml-parser": "^5.8.0",

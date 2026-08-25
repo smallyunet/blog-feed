@@ -34,6 +34,20 @@ the `source_updated` repository dispatch event. A once-per-day schedule remains
 as a low-frequency fallback, and refreshed feed output is committed only when it
 changes.
 
+After each build, the workflow compares the generated feed with the IDs recorded
+in `data/telegram-state.json`. Unsent items are sent to the Telegram channel in
+chronological order. The initial state is empty, so the first run backfills the
+entire feed; later runs send only newly discovered items. Delivery is paced to
+stay within Telegram rate limits. Telegram delivery uses these Actions secrets
+in `blog-feed`:
+
+- `TELEGRAM_BOT_TOKEN`: token for the channel publisher bot
+- `TELEGRAM_CHANNEL_ID`: numeric Telegram channel ID
+
+Each successfully delivered item is checkpointed. The workflow commits those
+checkpoints even when a later item fails, then reports the run as failed. A later
+run therefore resumes with only the remaining unsent items.
+
 Source repositories use an Actions secret named
 `BLOG_FEED_DISPATCH_TOKEN`. It should be a fine-grained GitHub token limited to
 the `smallyunet/blog-feed` repository with `Contents: write`, which is the
