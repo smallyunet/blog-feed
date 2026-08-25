@@ -4,9 +4,31 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-08-25T02:25:45.484Z</updated>
+  <updated>2026-08-25T12:34:34.551Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
+  <entry>
+    <title>TG 频道： https://t.me/smallyu_feed</title>
+    <link href="https://t.smallyu.net/#2026-16"/>
+    <id>micro:5410432411</id>
+    <published>2026-08-25T12:33:48Z</published>
+    <updated>2026-08-25T12:33:48Z</updated>
+    <category term="微博"/>
+    <summary type="html"><![CDATA[<p>TG 频道： https://t.me/smallyu_feed</p>]]></summary>
+    <content type="html"><![CDATA[<p>TG 频道：<a href="https://t.me/smallyu_feed">https://t.me/smallyu_feed</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Go 语言将会在不久的将来消失、被遗忘、被 JS/TS 和 Rust 替代掉。</title>
+    <link href="https://t.smallyu.net/#2026-15"/>
+    <id>micro:5409504773</id>
+    <published>2026-08-25T11:09:58Z</published>
+    <updated>2026-08-25T11:09:58Z</updated>
+    <category term="微博"/>
+    <summary type="html"><![CDATA[<p>Go 语言将会在不久的将来消失、被遗忘、被 JS/TS 和 Rust 替代掉。</p>]]></summary>
+    <content type="html"><![CDATA[<p>Go 语言将会在不久的将来消失、被遗忘、被 JS/TS 和 Rust 替代掉。</p>
+]]></content>
+  </entry>
   <entry>
     <title>身家 100 万以下不要娶妻，1000 万以下不要生子</title>
     <link href="https://crazy.smallyu.net/2026/08/24/%E8%BA%AB%E5%AE%B6100%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%8C1000%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%94%9F%E5%AD%90/"/>

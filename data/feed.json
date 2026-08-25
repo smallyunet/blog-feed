@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-25T02:25:45.484Z",
+  "generatedAt": "2026-08-25T12:34:34.551Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,34 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 659,
+  "count": 661,
   "items": [
+    {
+      "id": "micro:5410432411",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-16",
+      "publishedAt": "2026-08-25T12:33:48Z",
+      "updatedAt": "2026-08-25T12:33:48Z",
+      "summaryHtml": "<p>TG 频道： https://t.me/smallyu_feed</p>",
+      "contentHtml": "<p>TG 频道：<a href=\"https://t.me/smallyu_feed\">https://t.me/smallyu_feed</a></p>\n",
+      "year": 2026
+    },
+    {
+      "id": "micro:5409504773",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-15",
+      "publishedAt": "2026-08-25T11:09:58Z",
+      "updatedAt": "2026-08-25T11:09:58Z",
+      "summaryHtml": "<p>Go 语言将会在不久的将来消失、被遗忘、被 JS/TS 和 Rust 替代掉。</p>",
+      "contentHtml": "<p>Go 语言将会在不久的将来消失、被遗忘、被 JS/TS 和 Rust 替代掉。</p>\n",
+      "year": 2026
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/24/%E8%BA%AB%E5%AE%B6100%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%8C1000%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%94%9F%E5%AD%90/",
       "type": "article",
