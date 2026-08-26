@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-25T14:56:32.355Z",
+  "generatedAt": "2026-08-26T02:30:02.048Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 662,
+  "count": 663,
   "items": [
+    {
+      "id": "micro:5412298139",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-18",
+      "publishedAt": "2026-08-25T14:55:36Z",
+      "updatedAt": "2026-08-25T14:55:36Z",
+      "summaryHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>",
+      "contentHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>\n",
+      "year": 2026
+    },
     {
       "id": "micro:5411508614",
       "type": "micro",
