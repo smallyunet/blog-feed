@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-29T06:21:42.270Z",
+  "generatedAt": "2026-08-29T17:03:10.115Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 665,
+  "count": 666,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B73/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "为什么中本聪必须是特朗普",
+      "url": "https://crazy.smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B73/",
+      "publishedAt": "2026-08-29T16:59:06.000Z",
+      "updatedAt": "2026-08-29T17:00:06.776Z"
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/29/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B72/",
       "type": "article",
