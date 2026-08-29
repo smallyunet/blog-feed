@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-29T02:09:05.382Z",
+  "generatedAt": "2026-08-29T05:59:08.316Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 664,
+  "count": 665,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/29/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B72/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "既然中本聪是特朗普，他为什么还要发行 $TRUMP？",
+      "url": "https://crazy.smallyu.net/2026/08/29/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B72/",
+      "publishedAt": "2026-08-29T05:55:51.000Z",
+      "updatedAt": "2026-08-29T05:56:27.810Z"
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/26/%E5%BE%88%E5%A4%9A%E5%A5%B3%E7%94%9F%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%AD%A6%E4%B9%A0-%E6%9C%89%E4%BB%B7%E5%80%BC/",
       "type": "article",
