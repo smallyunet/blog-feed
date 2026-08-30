@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-08-30T06:30:08.785Z",
+  "generatedAt": "2026-08-30T07:32:34.400Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 669,
+  "count": 670,
   "items": [
+    {
+      "id": "micro:5467403339",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-19",
+      "publishedAt": "2026-08-30T07:31:43Z",
+      "updatedAt": "2026-08-30T07:31:43Z",
+      "summaryHtml": "<p>冷知识： 孙宇晨 1990 年出生 Vitalik 1994 年出生</p>",
+      "contentHtml": "<p>冷知识：</p>\n<ul>\n<li>孙宇晨 1990 年出生</li>\n<li>Vitalik 1994 年出生</li>\n</ul>\n",
+      "year": 2026
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/CZ%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
       "type": "article",
