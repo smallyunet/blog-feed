@@ -155,9 +155,12 @@ function initMenuToggle() {
 }
 
 async function init() {
+  initMenuToggle();
+
+  if (!els.list || !els.meta || !els.tabs || !els.loadingTemplate) return;
+
   renderLoading();
   initFilters();
-  initMenuToggle();
 
   try {
     const response = await fetch("./data/feed.json", { cache: "no-cache" });

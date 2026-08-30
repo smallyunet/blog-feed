@@ -197,6 +197,102 @@ a:visited {
   margin: 48px var(--home-outer-margin-x) 64px;
 }
 
+.subscribe-outer {
+  width: min(720px, calc(100% - 48px));
+  margin-inline: auto;
+}
+
+.subscribe-heading {
+  margin-bottom: 24px;
+}
+
+.subscribe-eyebrow {
+  margin: 0 0 4px;
+  color: var(--link-color);
+  font-size: var(--font-size-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.subscribe-heading h1 {
+  margin: 0;
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 500;
+  line-height: 1.25;
+}
+
+.subscribe-heading > p:last-child {
+  margin: 8px 0 0;
+  color: var(--text-muted);
+  font-size: var(--font-size-sm);
+}
+
+.subscribe-list {
+  display: grid;
+  gap: 16px;
+}
+
+.subscribe-card,
+.subscribe-card:visited {
+  position: relative;
+  display: grid;
+  gap: 4px;
+  min-height: 132px;
+  padding: 24px;
+  color: var(--color-text);
+  background: var(--surface-1);
+  border: 1px solid var(--border-color-subtle);
+  border-radius: 12px;
+  box-shadow: var(--shadow-card);
+  text-decoration: none;
+  transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.subscribe-card::after {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  content: "\2192";
+  color: var(--link-color);
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+.subscribe-card:hover,
+.subscribe-card:focus {
+  color: var(--color-text);
+  background: var(--color-hover-bg);
+  border-color: var(--link-color);
+}
+
+.subscribe-card:focus-visible {
+  outline: 2px solid var(--color-link);
+  outline-offset: 3px;
+}
+
+.subscribe-card-label {
+  padding-right: 40px;
+  color: var(--link-color);
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.subscribe-card-description {
+  color: var(--color-text);
+  font-size: var(--font-size-sm);
+}
+
+.subscribe-card-address {
+  align-self: end;
+  color: var(--text-muted);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: var(--font-size-xs);
+  overflow-wrap: anywhere;
+}
+
 .feed-toolbar {
   max-width: 1080px;
   margin: 0 auto 16px;
@@ -552,6 +648,10 @@ a:visited {
     margin: 28px 3% 32px;
   }
 
+  .subscribe-outer {
+    width: auto;
+  }
+
   .feed-toolbar {
     display: block;
   }
@@ -650,6 +750,22 @@ a:visited {
 
   .nav-list li.active a {
     border-radius: 10px;
+  }
+
+  .subscribe-card {
+    min-height: 124px;
+    padding: 20px;
+  }
+
+  .subscribe-card::after {
+    top: 20px;
+    right: 20px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .subscribe-card {
+    transition: none;
   }
 }
 
