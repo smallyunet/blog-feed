@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-09-01T02:12:12.517Z",
+  "generatedAt": "2026-09-01T06:45:10.412Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 671,
+  "count": 672,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "不要买二手手机",
+      "url": "https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
+      "publishedAt": "2026-09-01T03:56:36.000Z",
+      "updatedAt": "2026-09-01T06:42:46.954Z"
+    },
     {
       "id": "micro:5474672005",
       "type": "micro",
