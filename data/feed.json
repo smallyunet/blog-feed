@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-09-05T02:09:47.443Z",
+  "generatedAt": "2026-09-05T02:55:29.621Z",
   "sources": [
     {
       "id": "blog",
@@ -29,7 +29,7 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 672,
+  "count": 665,
   "items": [
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
@@ -66,56 +66,6 @@
       "summaryHtml": "<p>冷知识： 孙宇晨 1990 年出生 Vitalik 1994 年出生</p>",
       "contentHtml": "<p>冷知识：</p>\n<ul>\n<li>孙宇晨 1990 年出生</li>\n<li>Vitalik 1994 年出生</li>\n</ul>\n",
       "year": 2026
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/CZ%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "CZ 赵长鹏家庭背景调查报告",
-      "url": "https://crazy.smallyu.net/2026/08/30/CZ%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "publishedAt": "2026-08-30T06:12:43.000Z",
-      "updatedAt": "2026-08-30T06:25:16.195Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E5%AD%99%E5%AE%87%E6%99%A8%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "孙宇晨家庭背景调查报告",
-      "url": "https://crazy.smallyu.net/2026/08/30/%E5%AD%99%E5%AE%87%E6%99%A8%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "publishedAt": "2026-08-30T06:11:12.000Z",
-      "updatedAt": "2026-08-30T06:25:16.210Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E9%83%AD%E5%AE%8F%E6%89%8D%E5%AE%B6%E4%B8%96%E4%B8%8E%E8%B4%A2%E5%AF%8C%E5%BD%A2%E6%88%90%E8%B7%AF%E5%BE%84%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "郭宏才（宝二爷）家世、原始资本与财富形成路径调查报告",
-      "url": "https://crazy.smallyu.net/2026/08/30/%E9%83%AD%E5%AE%8F%E6%89%8D%E5%AE%B6%E4%B8%96%E4%B8%8E%E8%B4%A2%E5%AF%8C%E5%BD%A2%E6%88%90%E8%B7%AF%E5%BE%84%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
-      "publishedAt": "2026-08-30T06:07:56.000Z",
-      "updatedAt": "2026-08-30T06:25:16.213Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B73/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "为什么中本聪必须是特朗普",
-      "url": "https://crazy.smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B73/",
-      "publishedAt": "2026-08-29T16:59:06.000Z",
-      "updatedAt": "2026-08-30T06:25:16.201Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/29/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B72/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "既然中本聪是特朗普，他为什么还要发行 $TRUMP？",
-      "url": "https://crazy.smallyu.net/2026/08/29/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B72/",
-      "publishedAt": "2026-08-29T05:55:51.000Z",
-      "updatedAt": "2026-08-30T06:25:16.198Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/26/%E5%BE%88%E5%A4%9A%E5%A5%B3%E7%94%9F%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%AD%A6%E4%B9%A0-%E6%9C%89%E4%BB%B7%E5%80%BC/",
@@ -188,26 +138,6 @@
       "url": "https://crazy.smallyu.net/2026/08/24/%E8%BA%AB%E5%AE%B6100%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%BB%93%E5%A9%9A%EF%BC%8C1000%E4%B8%87%E4%BB%A5%E4%B8%8B%E4%B8%8D%E8%A6%81%E7%94%9F%E5%AD%90/",
       "publishedAt": "2026-08-24T03:41:16.000Z",
       "updatedAt": "2026-08-26T07:17:28.951Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/20/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B7v2/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "中本聪就是特朗普：真正的证据，从来不在代码里",
-      "url": "https://crazy.smallyu.net/2026/08/20/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B7v2/",
-      "publishedAt": "2026-08-20T01:54:26.000Z",
-      "updatedAt": "2026-08-30T06:25:16.207Z"
-    },
-    {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/08/20/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B7v1/",
-      "type": "article",
-      "source": "blog-crazy",
-      "sourceLabel": "疯狂版",
-      "title": "中本聪就是特朗普，这件事其实早就写在时间线上",
-      "url": "https://crazy.smallyu.net/2026/08/20/%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E5%8F%B7v1/",
-      "publishedAt": "2026-08-20T01:54:24.000Z",
-      "updatedAt": "2026-08-30T06:25:16.204Z"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2026/08/19/%E7%94%9F%E6%B4%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%8F%98%E5%A5%BD/",
