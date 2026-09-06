@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-09-06T02:10:16.367Z",
+  "generatedAt": "2026-09-06T09:10:47.810Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 665,
+  "count": 666,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "Virae 项目的最新进展和困境",
+      "url": "https://smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/",
+      "publishedAt": "2026-09-06T08:49:24.000Z",
+      "updatedAt": "2026-09-06T09:08:50.722Z"
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
       "type": "article",
