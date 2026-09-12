@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-09-12T02:10:21.769Z",
+  "generatedAt": "2026-09-12T13:25:28.367Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 666,
+  "count": 667,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "Andy 的 Plan B",
+      "url": "https://smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/",
+      "publishedAt": "2026-09-12T12:49:02.000Z",
+      "updatedAt": "2026-09-12T13:10:11.576Z"
+    },
     {
       "id": "blog-b:https://b.smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/",
       "type": "article",
