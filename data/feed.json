@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-04T02:43:19.876Z",
+  "generatedAt": "2026-10-04T14:30:12.713Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 669,
+  "count": 670,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/10/04/%E7%A9%B7%E4%BA%BA%E7%94%9F%E5%AD%A9%E5%AD%90%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "穷人生孩子罪孽深重",
+      "url": "https://crazy.smallyu.net/2026/10/04/%E7%A9%B7%E4%BA%BA%E7%94%9F%E5%AD%A9%E5%AD%90%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D/",
+      "publishedAt": "2026-10-04T14:20:56.000Z",
+      "updatedAt": "2026-10-04T14:24:22.157Z"
+    },
     {
       "id": "micro:5925068838",
       "type": "micro",
@@ -692,7 +702,7 @@
       "title": "OpenClaw（龙虾）没什么用",
       "url": "https://crazy.smallyu.net/2026/03/13/OpenClaw%EF%BC%88%E9%BE%99%E8%99%BE%EF%BC%89%E6%B2%A1%E4%BB%80%E4%B9%88%E7%94%A8/",
       "publishedAt": "2026-03-13T06:30:58.000Z",
-      "updatedAt": "2026-07-04T17:36:19.127Z"
+      "updatedAt": "2026-10-04T14:27:42.529Z"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/03/10/Idlen%E5%92%8CMystNodes/",
