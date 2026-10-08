@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-08T02:19:10.044Z",
+  "generatedAt": "2026-10-08T13:36:01.733Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,18 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 704,
+  "count": 705,
   "items": [
+    {
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/10/08/%E7%9F%A5%E8%AF%86%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%98%AF%E4%BC%A0%E6%89%BF/",
+      "type": "article",
+      "source": "blog-crazy",
+      "sourceLabel": "疯狂版",
+      "title": "知识最廉价的形式是 \"传承\"",
+      "url": "https://crazy.smallyu.net/2026/10/08/%E7%9F%A5%E8%AF%86%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%98%AF%E4%BC%A0%E6%89%BF/",
+      "publishedAt": "2026-10-08T13:32:50.000Z",
+      "updatedAt": "2026-10-08T13:33:26.183Z"
+    },
     {
       "id": "blog:https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
       "type": "article",
