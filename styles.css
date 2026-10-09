@@ -399,6 +399,20 @@ a:visited {
   min-width: 0;
 }
 
+.article-title-ai {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.article-title-ai .item-title {
+  min-width: 0;
+}
+
+.article-title-ai .tag {
+  flex-shrink: 0;
+}
+
 .item-title {
   display: block;
   overflow: hidden;

@@ -67,11 +67,12 @@ function articleItem(item) {
   return `
     <li class="list-group-item article-item" id="${escapeHtml(item.id)}">
       <time class="item-date" datetime="${escapeHtml(item.publishedAt)}">${formatDate(item.publishedAt)}</time>
-      <div class="item-main">
+      <div class="item-main${item.collection === "ai" ? " article-title-ai" : ""}">
         <a class="item-title" href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a>
+        ${item.collection === "ai" ? '<span class="tag" aria-label="AI 文章">AI</span>' : ""}
       </div>
       <div class="item-aside">
-        <span class="source-badge">${item.collection === "ai" ? '<span class="tag" aria-label="AI 文章">AI</span> ' : ""}${escapeHtml(item.sourceLabel)}</span>
+        <span class="source-badge">${escapeHtml(item.sourceLabel)}</span>
       </div>
     </li>
   `;
