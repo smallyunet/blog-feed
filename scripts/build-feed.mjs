@@ -159,6 +159,9 @@ function normalizeArticleEntry(source, entry) {
     contentHtml,
     text: stripHtml(contentHtml),
     tags,
+    ...(["blog", "blog-crazy"].includes(source.id) && tags.includes("AI 文章库")
+      ? { collection: "ai" }
+      : {}),
   };
 }
 
@@ -320,6 +323,7 @@ function feedListItem(item) {
     url: item.url,
     publishedAt: item.publishedAt,
     updatedAt: item.updatedAt,
+    ...(item.collection === "ai" ? { collection: "ai" } : {}),
   };
 
   if (item.type === "micro") {
