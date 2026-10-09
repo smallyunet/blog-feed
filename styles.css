@@ -689,6 +689,18 @@ a:visited {
     white-space: normal;
   }
 
+  .article-title-ai {
+    display: block;
+  }
+
+  .article-title-ai .item-title {
+    display: inline;
+  }
+
+  .article-title-ai .tag {
+    margin-left: 6px;
+  }
+
   .item-aside {
     align-items: flex-start;
     flex-direction: row;
