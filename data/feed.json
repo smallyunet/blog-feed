@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-09T07:17:30.672Z",
+  "generatedAt": "2026-10-09T07:30:44.316Z",
   "sources": [
     {
       "id": "blog",
@@ -39,7 +39,8 @@
       "title": "诺贝尔奖跟你有什么关系？",
       "url": "https://crazy.smallyu.net/2026/10/09/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E8%B7%9F%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F/",
       "publishedAt": "2026-10-09T07:13:51.000Z",
-      "updatedAt": "2026-10-09T07:14:28.563Z"
+      "updatedAt": "2026-10-09T07:14:28.563Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/10/08/%E7%9F%A5%E8%AF%86%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%98%AF%E4%BC%A0%E6%89%BF/",
@@ -49,7 +50,8 @@
       "title": "知识最廉价的形式是 \"传承\"",
       "url": "https://crazy.smallyu.net/2026/10/08/%E7%9F%A5%E8%AF%86%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%98%AF%E4%BC%A0%E6%89%BF/",
       "publishedAt": "2026-10-08T13:32:50.000Z",
-      "updatedAt": "2026-10-08T13:33:26.183Z"
+      "updatedAt": "2026-10-08T13:33:26.183Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
@@ -59,7 +61,8 @@
       "title": "“独立开发者” 是最大的骗局",
       "url": "https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
       "publishedAt": "2026-10-07T14:10:17.000Z",
-      "updatedAt": "2026-10-07T14:10:55.006Z"
+      "updatedAt": "2026-10-07T14:10:55.006Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/",
@@ -69,7 +72,8 @@
       "title": "为什么 Polymarket 比交易所邪恶很多倍",
       "url": "https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Polymarket%E6%AF%94%E4%BA%A4%E6%98%93%E6%89%80%E9%82%AA%E6%81%B6%E5%BE%88%E5%A4%9A%E5%80%8D/",
       "publishedAt": "2026-10-06T10:02:22.000Z",
-      "updatedAt": "2026-10-06T10:02:52.531Z"
+      "updatedAt": "2026-10-06T10:02:52.531Z",
+      "collection": "ai"
     },
     {
       "id": "micro:6013899064",
@@ -92,7 +96,8 @@
       "title": "为什么 Solana 可以查询代币的 Holder 列表，以太坊不可以？",
       "url": "https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/",
       "publishedAt": "2026-10-06T04:28:19.000Z",
-      "updatedAt": "2026-10-06T04:33:07.631Z"
+      "updatedAt": "2026-10-06T04:33:07.631Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
@@ -102,7 +107,8 @@
       "title": "中国为什么没有专业的个人交易员",
       "url": "https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
       "publishedAt": "2026-10-05T04:10:00.000Z",
-      "updatedAt": "2026-10-05T06:34:04.545Z"
+      "updatedAt": "2026-10-05T06:34:04.545Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/10/04/%E7%A9%B7%E4%BA%BA%E7%94%9F%E5%AD%A9%E5%AD%90%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D/",
@@ -135,7 +141,8 @@
       "title": "交易所，到底有多邪恶",
       "url": "https://smallyu.net/2026/10/01/%E4%BA%A4%E6%98%93%E6%89%80%EF%BC%8C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%82%AA%E6%81%B6/",
       "publishedAt": "2026-10-01T04:55:00.000Z",
-      "updatedAt": "2026-10-05T06:32:53.464Z"
+      "updatedAt": "2026-10-05T06:32:53.464Z",
+      "collection": "ai"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2026/10/01/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%8F%E6%B5%8E%E4%B8%8B%E8%A1%8C%E4%B8%8EWeb3%E6%97%A0%E5%85%B3/",
@@ -155,7 +162,8 @@
       "title": "Arc：生于以太坊，却抛弃了以太坊最脏的东西（ETH）",
       "url": "https://smallyu.net/2026/09/25/Arc%EF%BC%9A%E7%94%9F%E4%BA%8E%E4%BB%A5%E5%A4%AA%E5%9D%8A%EF%BC%8C%E5%8D%B4%E6%8A%9B%E5%BC%83%E4%BA%86%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%9C%80%E8%84%8F%E7%9A%84%E4%B8%9C%E8%A5%BF/",
       "publishedAt": "2026-09-25T13:23:00.000Z",
-      "updatedAt": "2026-10-05T06:30:24.094Z"
+      "updatedAt": "2026-10-05T06:30:24.094Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/23/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%94%A8/",
@@ -165,7 +173,8 @@
       "title": "以太坊有多难用",
       "url": "https://smallyu.net/2026/09/23/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%94%A8/",
       "publishedAt": "2026-09-23T13:51:00.000Z",
-      "updatedAt": "2026-10-05T06:28:15.255Z"
+      "updatedAt": "2026-10-05T06:28:15.255Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/23/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%84%8F%EF%BC%9F/",
@@ -175,7 +184,8 @@
       "title": "以太坊的技术架构到底有多脏？",
       "url": "https://smallyu.net/2026/09/23/%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%84%8F%EF%BC%9F/",
       "publishedAt": "2026-09-23T04:31:00.000Z",
-      "updatedAt": "2026-10-05T06:27:09.291Z"
+      "updatedAt": "2026-10-05T06:27:09.291Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/21/Pump.fun%20%E6%AF%95%E4%B8%9A%E5%90%8E%20PumpSwap%20%E6%8A%A2%E5%85%A5%EF%BC%9A%E9%93%BE%E4%B8%8A%E5%88%86%E5%B1%82%E6%A0%B7%E6%9C%AC%E5%9B%9E%E6%B5%8B/",
@@ -185,7 +195,8 @@
       "title": "Pump.fun 毕业后 PumpSwap 抢入：链上分层样本回测",
       "url": "https://crazy.smallyu.net/2026/09/21/Pump.fun%20%E6%AF%95%E4%B8%9A%E5%90%8E%20PumpSwap%20%E6%8A%A2%E5%85%A5%EF%BC%9A%E9%93%BE%E4%B8%8A%E5%88%86%E5%B1%82%E6%A0%B7%E6%9C%AC%E5%9B%9E%E6%B5%8B/",
       "publishedAt": "2026-09-21T14:53:00.000Z",
-      "updatedAt": "2026-10-05T06:16:58.802Z"
+      "updatedAt": "2026-10-05T06:16:58.802Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/21/Pons%20V2%20%E6%AF%95%E4%B8%9A%E6%B1%A0%EF%BC%9A%E5%85%A8%E9%83%A8%E9%85%8D%E5%AF%B9%E8%B5%84%E4%BA%A7%E7%9A%84%2030%20%E5%A4%A9%E5%9B%9E%E6%B5%8B/",
@@ -195,7 +206,8 @@
       "title": "Pons V2 毕业池：全部配对资产的 30 天回测",
       "url": "https://crazy.smallyu.net/2026/09/21/Pons%20V2%20%E6%AF%95%E4%B8%9A%E6%B1%A0%EF%BC%9A%E5%85%A8%E9%83%A8%E9%85%8D%E5%AF%B9%E8%B5%84%E4%BA%A7%E7%9A%84%2030%20%E5%A4%A9%E5%9B%9E%E6%B5%8B/",
       "publishedAt": "2026-09-21T13:53:00.000Z",
-      "updatedAt": "2026-10-05T06:16:58.794Z"
+      "updatedAt": "2026-10-05T06:16:58.794Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/21/%E7%8B%99%E5%87%BBPons%20V2%20%E6%AF%95%E4%B8%9A%E6%B1%A0%E8%83%9C%E7%8E%87%EF%BC%9A30%20%E5%A4%A9%E9%93%BE%E4%B8%8A%E5%9B%9E%E6%B5%8B/",
@@ -205,7 +217,8 @@
       "title": "狙击Pons V2 毕业池胜率：30 天链上回测",
       "url": "https://crazy.smallyu.net/2026/09/21/%E7%8B%99%E5%87%BBPons%20V2%20%E6%AF%95%E4%B8%9A%E6%B1%A0%E8%83%9C%E7%8E%87%EF%BC%9A30%20%E5%A4%A9%E9%93%BE%E4%B8%8A%E5%9B%9E%E6%B5%8B/",
       "publishedAt": "2026-09-21T12:53:00.000Z",
-      "updatedAt": "2026-10-05T06:16:21.852Z"
+      "updatedAt": "2026-10-05T06:16:21.852Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/19/Solana%E9%93%BE%E6%8A%80%E6%9C%AF%E4%B8%8A%E7%9A%84%E5%88%AB%E6%89%AD%E4%B9%8B%E5%A4%84/",
@@ -215,7 +228,8 @@
       "title": "Solana 链技术上的别扭之处",
       "url": "https://smallyu.net/2026/09/19/Solana%E9%93%BE%E6%8A%80%E6%9C%AF%E4%B8%8A%E7%9A%84%E5%88%AB%E6%89%AD%E4%B9%8B%E5%A4%84/",
       "publishedAt": "2026-09-19T13:58:00.000Z",
-      "updatedAt": "2026-10-05T06:23:36.163Z"
+      "updatedAt": "2026-10-05T06:23:36.163Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/18/Filecoin%20%E7%94%9F%E6%80%81%E5%92%8C%20FIL%20%E4%BB%A3%E5%B8%81%E7%9A%84%E6%B2%A1%E8%90%BD/",
@@ -225,7 +239,8 @@
       "title": "Filecoin 生态和 FIL 代币的没落",
       "url": "https://smallyu.net/2026/09/18/Filecoin%20%E7%94%9F%E6%80%81%E5%92%8C%20FIL%20%E4%BB%A3%E5%B8%81%E7%9A%84%E6%B2%A1%E8%90%BD/",
       "publishedAt": "2026-09-18T12:53:00.000Z",
-      "updatedAt": "2026-10-05T05:51:35.173Z"
+      "updatedAt": "2026-10-05T05:51:35.173Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/18/Cosmos%E4%BB%A3%E5%B8%81%E5%92%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%B2%A1%E8%90%BD/",
@@ -235,7 +250,8 @@
       "title": "Cosmos 代币和生态的没落",
       "url": "https://smallyu.net/2026/09/18/Cosmos%E4%BB%A3%E5%B8%81%E5%92%8C%E7%94%9F%E6%80%81%E7%9A%84%E6%B2%A1%E8%90%BD/",
       "publishedAt": "2026-09-18T11:53:00.000Z",
-      "updatedAt": "2026-10-05T05:44:42.574Z"
+      "updatedAt": "2026-10-05T05:44:42.574Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/17/ZEC%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%93%8D%E7%BA%B5%E7%9A%84%E8%AF%81%E6%8D%AE/",
@@ -245,7 +261,8 @@
       "title": "ZEC 价格被操纵的证据",
       "url": "https://smallyu.net/2026/09/17/ZEC%E4%BB%B7%E6%A0%BC%E8%A2%AB%E6%93%8D%E7%BA%B5%E7%9A%84%E8%AF%81%E6%8D%AE/",
       "publishedAt": "2026-09-17T11:53:00.000Z",
-      "updatedAt": "2026-10-05T06:07:05.744Z"
+      "updatedAt": "2026-10-05T06:07:05.744Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/17/Solana%E9%93%BE%E4%B8%8A%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%9C%80%E5%BF%AB%E9%80%9F%E5%BA%A6%E7%9A%84%E7%8B%99%E5%87%BB%E4%BA%A4%E6%98%93/",
@@ -255,7 +272,8 @@
       "title": "Solana 链上如何做到最快速度的狙击交易",
       "url": "https://smallyu.net/2026/09/17/Solana%E9%93%BE%E4%B8%8A%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%9C%80%E5%BF%AB%E9%80%9F%E5%BA%A6%E7%9A%84%E7%8B%99%E5%87%BB%E4%BA%A4%E6%98%93/",
       "publishedAt": "2026-09-17T04:18:00.000Z",
-      "updatedAt": "2026-10-05T06:17:27.780Z"
+      "updatedAt": "2026-10-05T06:17:27.780Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/12/%E5%8D%95%E9%92%B1%E5%8C%85%E8%A1%8C%E4%B8%BA%E5%88%86%E7%B1%BB%E4%B8%8E%E9%80%90%E7%B1%BB%E5%88%86%E6%9E%90/",
@@ -265,7 +283,8 @@
       "title": "单钱包行为分类与逐类分析",
       "url": "https://crazy.smallyu.net/2026/09/12/%E5%8D%95%E9%92%B1%E5%8C%85%E8%A1%8C%E4%B8%BA%E5%88%86%E7%B1%BB%E4%B8%8E%E9%80%90%E7%B1%BB%E5%88%86%E6%9E%90/",
       "publishedAt": "2026-09-12T13:53:00.000Z",
-      "updatedAt": "2026-10-05T06:20:53.678Z"
+      "updatedAt": "2026-10-05T06:20:53.678Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/12/%E9%92%B1%E5%8C%85%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%B1%95%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%A0%94/",
@@ -275,7 +294,8 @@
       "title": "钱包关联关系检测与展示工具调研",
       "url": "https://crazy.smallyu.net/2026/09/12/%E9%92%B1%E5%8C%85%E5%85%B3%E8%81%94%E5%85%B3%E7%B3%BB%E6%A3%80%E6%B5%8B%E4%B8%8E%E5%B1%95%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%A0%94/",
       "publishedAt": "2026-09-12T12:53:00.000Z",
-      "updatedAt": "2026-10-05T06:19:59.457Z"
+      "updatedAt": "2026-10-05T06:19:59.457Z",
+      "collection": "ai"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2026/09/12/Andy%E7%9A%84PlanB/",
@@ -295,7 +315,8 @@
       "title": "这很有趣，中本聪竟然击杀了伊朗真正的最高统治者",
       "url": "https://smallyu.net/2026/09/06/%E8%BF%99%E5%BE%88%E6%9C%89%E8%B6%A3%EF%BC%8C%E4%B8%AD%E6%9C%AC%E8%81%AA%E7%AB%9F%E7%84%B6%E5%87%BB%E6%9D%80%E4%BA%86%E4%BC%8A%E6%9C%97%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%9C%80%E9%AB%98%E7%BB%9F%E6%B2%BB%E8%80%85/",
       "publishedAt": "2026-09-06T09:38:00.000Z",
-      "updatedAt": "2026-10-05T05:29:55.970Z"
+      "updatedAt": "2026-10-05T05:29:55.970Z",
+      "collection": "ai"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2026/09/06/Virae%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E5%92%8C%E5%9B%B0%E5%A2%83/",
@@ -315,7 +336,8 @@
       "title": "中本聪为什么要创建 Polymarket",
       "url": "https://smallyu.net/2026/09/05/%E4%B8%AD%E6%9C%AC%E8%81%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%88%9B%E5%BB%BA%20Polymarket/",
       "publishedAt": "2026-09-05T14:46:00.000Z",
-      "updatedAt": "2026-10-05T05:26:41.740Z"
+      "updatedAt": "2026-10-05T05:26:41.740Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/05/%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%20Polymarket%EF%BC%8C%E5%B7%9D%E6%99%AE%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E6%80%BB%E7%BB%9F/",
@@ -325,7 +347,8 @@
       "title": "如果没有 Polymarket，川普不会成为总统",
       "url": "https://smallyu.net/2026/09/05/%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%20Polymarket%EF%BC%8C%E5%B7%9D%E6%99%AE%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E6%80%BB%E7%BB%9F/",
       "publishedAt": "2026-09-05T05:15:00.000Z",
-      "updatedAt": "2026-10-05T05:24:00.592Z"
+      "updatedAt": "2026-10-05T05:24:00.592Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/09/04/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8D%E6%98%AF%20Polymarket%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF/",
@@ -335,7 +358,8 @@
       "title": "特朗普才是 Polymarket 真正的幕后老板",
       "url": "https://smallyu.net/2026/09/04/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8D%E6%98%AF%20Polymarket%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%B9%95%E5%90%8E%E8%80%81%E6%9D%BF/",
       "publishedAt": "2026-09-04T03:24:00.000Z",
-      "updatedAt": "2026-10-05T05:22:06.728Z"
+      "updatedAt": "2026-10-05T05:22:06.728Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
@@ -368,7 +392,8 @@
       "title": "中本聪为什么还没有死？",
       "url": "https://smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%B2%A1%E6%9C%89%E6%AD%BB%EF%BC%9F/",
       "publishedAt": "2026-08-30T13:54:00.000Z",
-      "updatedAt": "2026-10-05T05:15:17.501Z"
+      "updatedAt": "2026-10-05T05:15:17.501Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/Telegram%20%E9%A1%B9%E7%9B%AE%E6%96%B9%E5%90%91%E6%B1%87%E6%80%BB/",
@@ -378,7 +403,8 @@
       "title": "Telegram 项目方向汇总",
       "url": "https://crazy.smallyu.net/2026/08/30/Telegram%20%E9%A1%B9%E7%9B%AE%E6%96%B9%E5%90%91%E6%B1%87%E6%80%BB/",
       "publishedAt": "2026-08-30T12:53:00.000Z",
-      "updatedAt": "2026-10-05T06:19:06.586Z"
+      "updatedAt": "2026-10-05T06:19:06.586Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%BF%85%E9%A1%BB%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE/",
@@ -388,7 +414,8 @@
       "title": "中本聪必须是特朗普",
       "url": "https://smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%BF%85%E9%A1%BB%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE/",
       "publishedAt": "2026-08-30T08:40:00.000Z",
-      "updatedAt": "2026-10-05T05:13:24.035Z"
+      "updatedAt": "2026-10-05T05:13:24.035Z",
+      "collection": "ai"
     },
     {
       "id": "micro:5467403339",
@@ -411,7 +438,8 @@
       "title": "CZ（赵长鹏）家庭背景调查报告",
       "url": "https://crazy.smallyu.net/2026/08/30/CZ%EF%BC%88%E8%B5%B5%E9%95%BF%E9%B9%8F%EF%BC%89%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
       "publishedAt": "2026-08-30T06:00:00.000Z",
-      "updatedAt": "2026-10-05T06:16:31.395Z"
+      "updatedAt": "2026-10-05T06:16:31.395Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E5%AD%99%E5%AE%87%E6%99%A8%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
@@ -421,7 +449,8 @@
       "title": "孙宇晨家庭背景调查报告",
       "url": "https://crazy.smallyu.net/2026/08/30/%E5%AD%99%E5%AE%87%E6%99%A8%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
       "publishedAt": "2026-08-30T05:00:00.000Z",
-      "updatedAt": "2026-10-05T06:16:41.040Z"
+      "updatedAt": "2026-10-05T06:16:41.040Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/%E9%83%AD%E5%AE%8F%E6%89%8D%EF%BC%88%E2%80%9C%E5%AE%9D%E4%BA%8C%E7%88%B7%E2%80%9D%EF%BC%89%E5%AE%B6%E4%B8%96%E3%80%81%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%9C%AC%E4%B8%8E%E8%B4%A2%E5%AF%8C%E5%BD%A2%E6%88%90%E8%B7%AF%E5%BE%84%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
@@ -431,7 +460,8 @@
       "title": "郭宏才（“宝二爷”）家世、原始资本与财富形成路径调查报告",
       "url": "https://crazy.smallyu.net/2026/08/30/%E9%83%AD%E5%AE%8F%E6%89%8D%EF%BC%88%E2%80%9C%E5%AE%9D%E4%BA%8C%E7%88%B7%E2%80%9D%EF%BC%89%E5%AE%B6%E4%B8%96%E3%80%81%E5%8E%9F%E5%A7%8B%E8%B5%84%E6%9C%AC%E4%B8%8E%E8%B4%A2%E5%AF%8C%E5%BD%A2%E6%88%90%E8%B7%AF%E5%BE%84%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
       "publishedAt": "2026-08-30T04:00:00.000Z",
-      "updatedAt": "2026-10-05T06:16:05.449Z"
+      "updatedAt": "2026-10-05T06:16:05.449Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/08/29/%E6%97%A2%E7%84%B6%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%8C%E4%BB%96%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E5%8F%91%E8%A1%8C%20$TRUMP%EF%BC%9F/",
@@ -441,7 +471,8 @@
       "title": "既然中本聪是特朗普，他为什么还要发行 $TRUMP？",
       "url": "https://smallyu.net/2026/08/29/%E6%97%A2%E7%84%B6%E4%B8%AD%E6%9C%AC%E8%81%AA%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%8C%E4%BB%96%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E5%8F%91%E8%A1%8C%20$TRUMP%EF%BC%9F/",
       "publishedAt": "2026-08-29T05:54:00.000Z",
-      "updatedAt": "2026-10-05T05:08:20.794Z"
+      "updatedAt": "2026-10-05T05:08:20.794Z",
+      "collection": "ai"
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/26/%E5%BE%88%E5%A4%9A%E5%A5%B3%E7%94%9F%E8%AF%AF%E4%BB%A5%E4%B8%BA%E5%AD%A6%E4%B9%A0-%E6%9C%89%E4%BB%B7%E5%80%BC/",
@@ -523,7 +554,8 @@
       "title": "中本聪就是特朗普：真正的证据，从来不在代码里",
       "url": "https://smallyu.net/2026/08/19/%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%B0%B1%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%AF%81%E6%8D%AE%EF%BC%8C%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%9C%A8%E4%BB%A3%E7%A0%81%E9%87%8C/",
       "publishedAt": "2026-08-19T13:51:00.000Z",
-      "updatedAt": "2026-10-05T04:51:58.498Z"
+      "updatedAt": "2026-10-05T04:51:58.498Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/08/19/%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%B0%B1%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%8C%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%85%B6%E5%AE%9E%E6%97%A9%E5%B0%B1%E5%86%99%E5%9C%A8%E6%97%B6%E9%97%B4%E7%BA%BF%E4%B8%8A/",
@@ -533,7 +565,8 @@
       "title": "中本聪就是特朗普，这件事其实早就写在时间线上",
       "url": "https://smallyu.net/2026/08/19/%E4%B8%AD%E6%9C%AC%E8%81%AA%E5%B0%B1%E6%98%AF%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%8C%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%85%B6%E5%AE%9E%E6%97%A9%E5%B0%B1%E5%86%99%E5%9C%A8%E6%97%B6%E9%97%B4%E7%BA%BF%E4%B8%8A/",
       "publishedAt": "2026-08-19T12:28:00.000Z",
-      "updatedAt": "2026-10-05T04:51:48.184Z"
+      "updatedAt": "2026-10-05T04:51:48.184Z",
+      "collection": "ai"
     },
     {
       "id": "blog-b:https://b.smallyu.net/2026/08/19/%E7%94%9F%E6%B4%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%8F%98%E5%A5%BD/",
@@ -563,7 +596,8 @@
       "title": "Virae Auto Trade 反转分析（第一版数据报告）",
       "url": "https://crazy.smallyu.net/2026/08/10/Virae%20Auto%20Trade%20%E5%8F%8D%E8%BD%AC%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC%E4%B8%80%E7%89%88%E6%95%B0%E6%8D%AE%E6%8A%A5%E5%91%8A%EF%BC%89/",
       "publishedAt": "2026-08-10T12:53:00.000Z",
-      "updatedAt": "2026-10-05T06:16:49.394Z"
+      "updatedAt": "2026-10-05T06:16:49.394Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/08/09/%E9%A2%84%E6%B5%8B%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E5%81%9A/",
@@ -622,7 +656,8 @@
       "title": "EVPLUS / EVPOLY 策略与运行架构调研报告",
       "url": "https://crazy.smallyu.net/2026/08/07/EVPLUS_EVPOLY%20%E7%AD%96%E7%95%A5%E4%B8%8E%E8%BF%90%E8%A1%8C%E6%9E%B6%E6%9E%84%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A/",
       "publishedAt": "2026-08-07T12:53:00.000Z",
-      "updatedAt": "2026-10-05T06:16:31.401Z"
+      "updatedAt": "2026-10-05T06:16:31.401Z",
+      "collection": "ai"
     },
     {
       "id": "blog:https://smallyu.net/2026/08/03/PySonar2%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9AI%E8%8A%82%E7%9C%81Token/",
