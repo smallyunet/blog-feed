@@ -4,7 +4,7 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-10-11T13:49:04.730Z</updated>
+  <updated>2026-10-11T14:20:49.781Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
   <entry>
@@ -19,7 +19,7 @@
   </entry>
   <entry>
     <title>困住老一辈人（甚至我们）的，不是知识、见识、格局，是钱。</title>
-    <link href="https://t.smallyu.net/#2026-23"/>
+    <link href="https://t.smallyu.net/#2026-22"/>
     <id>micro:6108239278</id>
     <published>2026-10-11T10:49:46Z</published>
     <updated>2026-10-11T10:49:46Z</updated>
@@ -83,7 +83,7 @@
   </entry>
   <entry>
     <title>AI 文章库中的文章是AI写的，但是文章的观点、立场、大纲、方向是我提出的，AI 只是帮助我往里面填充具体的细节和证据。...</title>
-    <link href="https://t.smallyu.net/#2026-22"/>
+    <link href="https://t.smallyu.net/#2026-21"/>
     <id>micro:6013899064</id>
     <published>2026-10-06T10:01:39Z</published>
     <updated>2026-10-06T10:01:39Z</updated>
@@ -138,7 +138,7 @@
   </entry>
   <entry>
     <title>CZ 反复在采访中提到，他自己不炒币（短线交易）。而他最成功的创业项目、让成为首富的币安交易所，则是一个巨大的、在不断鼓...</title>
-    <link href="https://t.smallyu.net/#2026-21"/>
+    <link href="https://t.smallyu.net/#2026-20"/>
     <id>micro:5925068838</id>
     <published>2026-10-01T05:00:43Z</published>
     <updated>2026-10-01T05:00:43Z</updated>
@@ -406,7 +406,7 @@
   </entry>
   <entry>
     <title>凡是相信策略交易、短线交易、合约期货交易、套利策略等交易方式能赚钱的，要么极度聪明，要么脑子不好。</title>
-    <link href="https://t.smallyu.net/#2026-20"/>
+    <link href="https://t.smallyu.net/#2026-19"/>
     <id>micro:5474672005</id>
     <published>2026-08-31T06:35:24Z</published>
     <updated>2026-08-31T06:35:24Z</updated>
@@ -456,7 +456,7 @@
   </entry>
   <entry>
     <title>冷知识： 孙宇晨 1990 年出生 Vitalik 1994 年出生</title>
-    <link href="https://t.smallyu.net/#2026-19"/>
+    <link href="https://t.smallyu.net/#2026-18"/>
     <id>micro:5467403339</id>
     <published>2026-08-30T07:31:43Z</published>
     <updated>2026-08-30T07:31:43Z</updated>
@@ -526,24 +526,13 @@
   </entry>
   <entry>
     <title>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</title>
-    <link href="https://t.smallyu.net/#2026-18"/>
+    <link href="https://t.smallyu.net/#2026-17"/>
     <id>micro:5412298139</id>
     <published>2026-08-25T14:55:36Z</published>
     <updated>2026-08-25T14:55:36Z</updated>
     <category term="微博"/>
     <summary type="html"><![CDATA[<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>]]></summary>
     <content type="html"><![CDATA[<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>测试2</title>
-    <link href="https://t.smallyu.net/#2026-17"/>
-    <id>micro:5411508614</id>
-    <published>2026-08-25T14:00:32Z</published>
-    <updated>2026-08-25T14:01:48Z</updated>
-    <category term="微博"/>
-    <summary type="html"><![CDATA[<p>测试2</p>]]></summary>
-    <content type="html"><![CDATA[<p>测试2</p>
 ]]></content>
   </entry>
   <entry>

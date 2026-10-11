@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-11T13:49:04.730Z",
+  "generatedAt": "2026-10-11T14:20:49.781Z",
   "sources": [
     {
       "id": "blog",
@@ -29,7 +29,7 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 708,
+  "count": 707,
   "items": [
     {
       "id": "blog:https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
@@ -48,7 +48,7 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-23",
+      "url": "https://t.smallyu.net/#2026-22",
       "publishedAt": "2026-10-11T10:49:46Z",
       "updatedAt": "2026-10-11T10:49:46Z",
       "summaryHtml": "<p>困住老一辈人（甚至我们）的，不是知识、见识、格局，是钱。</p>",
@@ -105,7 +105,7 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-22",
+      "url": "https://t.smallyu.net/#2026-21",
       "publishedAt": "2026-10-06T10:01:39Z",
       "updatedAt": "2026-10-06T10:01:39Z",
       "summaryHtml": "<p>AI 文章库中的文章是AI写的，但是文章的观点、立场、大纲、方向是我提出的，AI 只是帮助我往里面填充具体的细节和证据。所以我仍然觉得这些文章有分享出来的必要和价值， 这就好像一部电影的导演，写剧本的编剧并不是他，出镜演戏的演员也不是他，拍摄和剪辑电影的工作人员也不是他。但是最终这部电影是导演的，你能说跟他没有关系吗？...</p>",
@@ -150,7 +150,7 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-21",
+      "url": "https://t.smallyu.net/#2026-20",
       "publishedAt": "2026-10-01T05:00:43Z",
       "updatedAt": "2026-10-01T05:00:43Z",
       "summaryHtml": "<p>CZ 反复在采访中提到，他自己不炒币（短线交易）。而他最成功的创业项目、让成为首富的币安交易所，则是一个巨大的、在不断鼓励交易的平台。是不是很荒诞。</p>",
@@ -401,7 +401,7 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-20",
+      "url": "https://t.smallyu.net/#2026-19",
       "publishedAt": "2026-08-31T06:35:24Z",
       "updatedAt": "2026-08-31T06:35:24Z",
       "summaryHtml": "<p>凡是相信策略交易、短线交易、合约期货交易、套利策略等交易方式能赚钱的，要么极度聪明，要么脑子不好。</p>",
@@ -447,7 +447,7 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-19",
+      "url": "https://t.smallyu.net/#2026-18",
       "publishedAt": "2026-08-30T07:31:43Z",
       "updatedAt": "2026-08-30T07:31:43Z",
       "summaryHtml": "<p>冷知识： 孙宇晨 1990 年出生 Vitalik 1994 年出生</p>",
@@ -514,24 +514,11 @@
       "source": "micro",
       "sourceLabel": "微博",
       "title": "",
-      "url": "https://t.smallyu.net/#2026-18",
+      "url": "https://t.smallyu.net/#2026-17",
       "publishedAt": "2026-08-25T14:55:36Z",
       "updatedAt": "2026-08-25T14:55:36Z",
       "summaryHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>",
       "contentHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>\n",
-      "year": 2026
-    },
-    {
-      "id": "micro:5411508614",
-      "type": "micro",
-      "source": "micro",
-      "sourceLabel": "微博",
-      "title": "",
-      "url": "https://t.smallyu.net/#2026-17",
-      "publishedAt": "2026-08-25T14:00:32Z",
-      "updatedAt": "2026-08-25T14:01:48Z",
-      "summaryHtml": "<p>测试2</p>",
-      "contentHtml": "<p>测试2</p>\n",
       "year": 2026
     },
     {
