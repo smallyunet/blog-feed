@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-15T10:34:35.307Z",
+  "generatedAt": "2026-10-15T10:36:39.799Z",
   "sources": [
     {
       "id": "blog",
@@ -29,17 +29,17 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 701,
+  "count": 708,
   "items": [
     {
-      "id": "blog-b:https://b.smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/",
+      "id": "blog:https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog",
+      "sourceLabel": "博客",
       "title": "为什么做加密货币的钱包产品很难赚钱",
-      "url": "https://b.smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/",
+      "url": "https://smallyu.net/2026/10/14/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E7%9A%84%E9%92%B1%E5%8C%85%E4%BA%A7%E5%93%81%E5%BE%88%E9%9A%BE%E8%B5%9A%E9%92%B1/",
       "publishedAt": "2026-10-14T01:11:56.000Z",
-      "updatedAt": "2026-10-15T10:28:23.077Z",
+      "updatedAt": "2026-10-14T01:12:27.159Z",
       "collection": "ai",
       "tags": [
         "AI 文章库"
@@ -47,19 +47,32 @@
       "wordCount": 5875
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
+      "id": "blog:https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog",
+      "sourceLabel": "博客",
       "title": "在北京的乡巴佬",
-      "url": "https://b.smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
+      "url": "https://smallyu.net/2026/10/11/%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B9%A1%E5%B7%B4%E4%BD%AC/",
       "publishedAt": "2026-10-11T12:58:56.000Z",
-      "updatedAt": "2026-10-15T10:28:01.375Z",
+      "updatedAt": "2026-10-11T15:24:26.188Z",
       "collection": "ai",
       "tags": [
         "AI 文章库"
       ],
       "wordCount": 7016
+    },
+    {
+      "id": "micro:6108239278",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-22",
+      "publishedAt": "2026-10-11T10:49:46Z",
+      "updatedAt": "2026-10-11T10:49:46Z",
+      "summaryHtml": "<p>困住老一辈人（甚至我们）的，不是知识、见识、格局，是钱。</p>",
+      "contentHtml": "<p>困住老一辈人（甚至我们）的，不是知识、见识、格局，是钱。</p>\n",
+      "year": 2026
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/10/09/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E8%B7%9F%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9F/",
@@ -92,14 +105,14 @@
       "wordCount": 3798
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
+      "id": "blog:https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog",
+      "sourceLabel": "博客",
       "title": "“独立开发者” 是最大的骗局",
-      "url": "https://b.smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
+      "url": "https://smallyu.net/2026/10/07/%E2%80%9C%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85%E2%80%9D%E6%98%AF%E6%9C%80%E5%A4%A7%E7%9A%84%E9%AA%97%E5%B1%80/",
       "publishedAt": "2026-10-07T14:10:17.000Z",
-      "updatedAt": "2026-10-15T10:27:53.696Z",
+      "updatedAt": "2026-10-07T14:10:55.006Z",
       "collection": "ai",
       "tags": [
         "AI 文章库"
@@ -122,6 +135,19 @@
       "wordCount": 6739
     },
     {
+      "id": "micro:6013899064",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-21",
+      "publishedAt": "2026-10-06T10:01:39Z",
+      "updatedAt": "2026-10-06T10:01:39Z",
+      "summaryHtml": "<p>AI 文章库中的文章是AI写的，但是文章的观点、立场、大纲、方向是我提出的，AI 只是帮助我往里面填充具体的细节和证据。所以我仍然觉得这些文章有分享出来的必要和价值， 这就好像一部电影的导演，写剧本的编剧并不是他，出镜演戏的演员也不是他，拍摄和剪辑电影的工作人员也不是他。但是最终这部电影是导演的，你能说跟他没有关系吗？...</p>",
+      "contentHtml": "<p>AI 文章库中的文章是AI写的，但是文章的观点、立场、大纲、方向是我提出的，AI 只是帮助我往里面填充具体的细节和证据。所以我仍然觉得这些文章有分享出来的必要和价值，</p>\n<p>这就好像一部电影的导演，写剧本的编剧并不是他，出镜演戏的演员也不是他，拍摄和剪辑电影的工作人员也不是他。但是最终这部电影是导演的，你能说跟他没有关系吗？同样的道理，领导安排给你一项工作，你完成了，具体细节是你完成的，汇报结果给领导。难道这项工作不是领导的结果吗？</p>\n<p>所以这就像导演一样，我在指挥 AI 来写这些文章。我认为这是一种生产关系的变革。传统的电影导演，他有钱，他能用非常多的钱来雇一些真正的人来帮他做这些事情。那么到了科技发展的现在，我花钱让 AI 来帮我做一些事情，这些东西最终还是我的。就像我让 AI 写代码之后，代码还是我的，项目还是我的。你能说这些东西是AI的吗，对吧。</p>\n",
+      "year": 2026
+    },
+    {
       "id": "blog:https://smallyu.net/2026/10/06/%E4%B8%BA%E4%BB%80%E4%B9%88Solana%E5%8F%AF%E4%BB%A5%E6%9F%A5%E8%AF%A2%E4%BB%A3%E5%B8%81%E7%9A%84Holder%E5%88%97%E8%A1%A8%EF%BC%8C%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%8D%E5%8F%AF%E4%BB%A5%EF%BC%9F/",
       "type": "article",
       "source": "blog",
@@ -137,14 +163,14 @@
       "wordCount": 4428
     },
     {
-      "id": "blog-b:https://b.smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
+      "id": "blog:https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
       "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
+      "source": "blog",
+      "sourceLabel": "博客",
       "title": "中国为什么没有专业的个人交易员",
-      "url": "https://b.smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
+      "url": "https://smallyu.net/2026/10/05/%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E5%91%98/",
       "publishedAt": "2026-10-05T04:10:00.000Z",
-      "updatedAt": "2026-10-15T10:29:05.514Z",
+      "updatedAt": "2026-10-05T06:34:04.545Z",
       "collection": "ai",
       "tags": [
         "AI 文章库"
@@ -164,6 +190,19 @@
         "观点"
       ],
       "wordCount": 146
+    },
+    {
+      "id": "micro:5925068838",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-20",
+      "publishedAt": "2026-10-01T05:00:43Z",
+      "updatedAt": "2026-10-01T05:00:43Z",
+      "summaryHtml": "<p>CZ 反复在采访中提到，他自己不炒币（短线交易）。而他最成功的创业项目、让成为首富的币安交易所，则是一个巨大的、在不断鼓励交易的平台。是不是很荒诞。</p>",
+      "contentHtml": "<p>CZ 反复在采访中提到，他自己不炒币（短线交易）。而他最成功的创业项目、让成为首富的币安交易所，则是一个巨大的、在不断鼓励交易的平台。是不是很荒诞。</p>\n",
+      "year": 2026
     },
     {
       "id": "blog:https://smallyu.net/2026/10/01/%E4%BA%A4%E6%98%93%E6%89%80%EF%BC%8C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%82%AA%E6%81%B6/",
@@ -492,6 +531,19 @@
       "wordCount": 1786
     },
     {
+      "id": "micro:5474672005",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-19",
+      "publishedAt": "2026-08-31T06:35:24Z",
+      "updatedAt": "2026-08-31T06:35:24Z",
+      "summaryHtml": "<p>凡是相信策略交易、短线交易、合约期货交易、套利策略等交易方式能赚钱的，要么极度聪明，要么脑子不好。</p>",
+      "contentHtml": "<p>凡是相信策略交易、短线交易、合约期货交易、套利策略等交易方式能赚钱的，要么极度聪明，要么脑子不好。</p>\n",
+      "year": 2026
+    },
+    {
       "id": "blog:https://smallyu.net/2026/08/30/%E4%B8%AD%E6%9C%AC%E8%81%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E6%B2%A1%E6%9C%89%E6%AD%BB%EF%BC%9F/",
       "type": "article",
       "source": "blog",
@@ -535,6 +587,19 @@
         "AI 文章库"
       ],
       "wordCount": 6467
+    },
+    {
+      "id": "micro:5467403339",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-18",
+      "publishedAt": "2026-08-30T07:31:43Z",
+      "updatedAt": "2026-08-30T07:31:43Z",
+      "summaryHtml": "<p>冷知识： 孙宇晨 1990 年出生 Vitalik 1994 年出生</p>",
+      "contentHtml": "<p>冷知识：</p>\n<ul>\n<li>孙宇晨 1990 年出生</li>\n<li>Vitalik 1994 年出生</li>\n</ul>\n",
+      "year": 2026
     },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/08/30/CZ%EF%BC%88%E8%B5%B5%E9%95%BF%E9%B9%8F%EF%BC%89%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A/",
@@ -609,6 +674,32 @@
         "观点"
       ],
       "wordCount": 566
+    },
+    {
+      "id": "micro:5412298139",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-17",
+      "publishedAt": "2026-08-25T14:55:36Z",
+      "updatedAt": "2026-08-25T14:55:36Z",
+      "summaryHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>",
+      "contentHtml": "<p>Circle 的区块链 Arc 会改变区块链的格局，ETH、SOL、TRX 链都将没用、币价必然持续下跌。</p>\n",
+      "year": 2026
+    },
+    {
+      "id": "micro:5410432411",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-16",
+      "publishedAt": "2026-08-25T12:33:48Z",
+      "updatedAt": "2026-08-25T12:33:48Z",
+      "summaryHtml": "<p>TG 频道： https://t.me/smallyu_feed</p>",
+      "contentHtml": "<p>TG 频道：<a href=\"https://t.me/smallyu_feed\">https://t.me/smallyu_feed</a></p>\n",
+      "year": 2026
     },
     {
       "id": "micro:5409504773",
