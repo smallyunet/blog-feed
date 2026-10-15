@@ -1,3 +1,4 @@
+import { plainText, countArticleWords } from "./article-metadata.mjs";
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
@@ -26,20 +27,6 @@ export function escapeTelegramHtml(value) {
     .replace(/"/g, "&quot;");
 }
 
-function plainText(html) {
-  return String(html || "")
-    .replace(/<script[\s\S]*?<\/script>/gi, "")
-    .replace(/<style[\s\S]*?<\/style>/gi, "")
-    .replace(/<[^>]+>/g, " ")
-    .replace(/&nbsp;/gi, " ")
-    .replace(/&amp;/gi, "&")
-    .replace(/&lt;/gi, "<")
-    .replace(/&gt;/gi, ">")
-    .replace(/&quot;/gi, '"')
-    .replace(/&#39;/gi, "'")
-    .replace(/\s+/g, " ")
-    .trim();
-}
 
 function truncate(value, maxLength) {
   const characters = Array.from(value);
@@ -61,8 +48,21 @@ export function formatTelegramMessage(item) {
     return `${prefix}${body}${footer}`;
   }
 
-  const title = escapeTelegramHtml(item.title || "新文章");
-  return `<b>${source}</b>\n<a href="${url}">${truncate(title, 3500)}</a>`;
+  const title = escapeTelegramHtml(truncate(item.title || "新文章", 1000));
+  const isAi = item.collection === "ai";
+  const hasBody = Boolean(item.contentHtml || item.text);
+  const wordCount = Number.isInteger(item.wordCount) && item.wordCount >= 0
+    ? item.wordCount : hasBody ? countArticleWords(item.contentHtml || item.text) : null;
+  const tags = [...new Set((Array.isArray(item.tags) ? item.tags : [])
+    .filter((tag) => typeof tag === "string" && !(isAi && tag === "AI 文章库"))
+    .map((tag) => Array.from(tag.trim().replace(/^#+/, "").replace(/[^\p{L}\p{N}_]+/gu, "_").replace(/^_+|_+$/g, "")).slice(0, 40).join(""))
+    .filter(Boolean))].slice(0, 8);
+  const metadata = [
+    ...(wordCount !== null ? [`约 ${wordCount.toLocaleString("en-US")} 字`] : []),
+    ...(tags.length ? [tags.map((tag) => `#${tag}`).join(" ")] : []),
+  ];
+  return `<b>${source}${isAi ? " · AI" : ""}</b>\n<a href="${url}">${title}</a>`
+    + (metadata.length ? `\n\n${metadata.map(escapeTelegramHtml).join("\n")}` : "");
 }
 
 function retryDelay(error, attempt) {

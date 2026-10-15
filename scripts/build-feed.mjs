@@ -1,3 +1,4 @@
+import { countArticleWords } from "./article-metadata.mjs";
 import fs from "node:fs/promises";
 import { XMLParser } from "fast-xml-parser";
 import { marked } from "marked";
@@ -159,7 +160,7 @@ function normalizeArticleEntry(source, entry) {
     contentHtml,
     text: stripHtml(contentHtml),
     tags,
-    ...(["blog", "blog-crazy"].includes(source.id) && tags.includes("AI 文章库")
+    ...(["blog", "blog-b", "blog-crazy"].includes(source.id) && tags.includes("AI 文章库")
       ? { collection: "ai" }
       : {}),
   };
@@ -335,7 +336,11 @@ function feedListItem(item) {
     };
   }
 
-  return base;
+  return {
+    ...base,
+    tags: item.tags,
+    wordCount: countArticleWords(item.contentHtml || item.text),
+  };
 }
 
 async function main() {

@@ -101,3 +101,52 @@ test("sendTelegramMessage uses the Telegram Bot API JSON contract", async () => 
   });
   assert.equal(result.message_id, 42);
 });
+
+
+test("article messages include AI marker, body word count and searchable tags", () => {
+  assert.equal(formatTelegramMessage({
+    type: "article", sourceLabel: "博客", title: "示例", url: "https://example.com/ai/",
+    collection: "ai", contentHtml: "<h2>中文</h2><p>Hello world 123!</p>",
+    tags: ["AI 文章库", "Web3", "钱包", "Web3", "AI tools", "#技术", "<>&"],
+  }), '<b>博客 · AI</b>\n<a href="https://example.com/ai/">示例</a>\n\n约 5 字\n#Web3 #钱包 #AI_tools #技术');
+});
+
+test("ordinary articles count full body rather than summary and omit AI marker", () => {
+  const message = formatTelegramMessage({
+    type: "article", title: "普通文章", url: "https://example.com/",
+    contentHtml: "<p>正文内容</p><script>ignored()</script><style>ignored</style>",
+    summaryHtml: "摘要", tags: [],
+  });
+  assert.match(message, /约 4 字$/);
+  assert.doesNotMatch(message, / · AI|#/);
+});
+
+test("missing article body does not invent a word count", () => {
+  const message = formatTelegramMessage({title: "文章", url: "https://example.com/", tags: ["技术"]});
+  assert.ok(message.endsWith("\n\n#技术"));
+  assert.doesNotMatch(message, /字/);
+});
+
+test("long article titles and tags stay within Telegram's visible text limit", () => {
+  const message = formatTelegramMessage({
+    title: "&".repeat(5000), url: "https://example.com/", collection: "ai",
+    text: "正文", tags: Array.from({length: 100}, (_, i) => `${i}${"长".repeat(100)}`),
+  });
+  assert.ok(message.replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").length < 4096);
+  assert.equal((message.match(/#/g) || []).length, 8);
+  assert.doesNotMatch(message, /&(?:a|am)$/);
+});
+
+
+test("article word counts decode numeric HTML entities", () => {
+  const message = formatTelegramMessage({
+    title: "文章", url: "https://example.com/", contentHtml: "<p>买入&#x2F;卖出 &#20013;</p>",
+  });
+  assert.ok(message.endsWith("约 5 字"));
+});
+
+
+test("article messages use metadata retained in the compact feed", () => {
+  const message = formatTelegramMessage({title: "文章", url: "https://example.com/", wordCount: 2400, tags: ["Web3"]});
+  assert.ok(message.endsWith("约 2,400 字\n#Web3"));
+});
