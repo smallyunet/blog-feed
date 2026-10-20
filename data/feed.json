@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-19T07:29:26.333Z",
+  "generatedAt": "2026-10-20T02:10:31.567Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 712,
+  "count": 713,
   "items": [
+    {
+      "id": "micro:6262028195",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-23",
+      "publishedAt": "2026-10-19T07:28:46Z",
+      "updatedAt": "2026-10-19T07:28:46Z",
+      "summaryHtml": "<p>新发现： 三星级以上酒店才有会机器人负责配送，这个机器人挺有意思 出行必须住三星级以上酒店，因为更低价的经济型酒店质量参差不齐</p>",
+      "contentHtml": "<p>新发现：</p>\n<ol>\n<li>三星级以上酒店才有会机器人负责配送，这个机器人挺有意思</li>\n<li>出行必须住三星级以上酒店，因为更低价的经济型酒店质量参差不齐</li>\n</ol>\n",
+      "year": 2026
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/10/18/%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A/",
       "type": "article",
