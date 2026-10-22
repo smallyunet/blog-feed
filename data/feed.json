@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-22T06:01:16.735Z",
+  "generatedAt": "2026-10-22T12:29:27.193Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 672,
+  "count": 673,
   "items": [
+    {
+      "id": "micro:6340747742",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-24",
+      "publishedAt": "2026-10-22T12:28:45Z",
+      "updatedAt": "2026-10-22T12:28:45Z",
+      "summaryHtml": "<p>那些喜欢读手写文章、排斥 AI 参与文章的人，要不你们知行合一，写代码也不要用AI、全手写？我就喜欢读全手写的代码。</p>",
+      "contentHtml": "<p>那些喜欢读手写文章、排斥 AI 参与文章的人，要不你们知行合一，写代码也不要用AI、全手写？我就喜欢读全手写的代码。</p>\n",
+      "year": 2026
+    },
     {
       "id": "micro:6262028195",
       "type": "micro",
