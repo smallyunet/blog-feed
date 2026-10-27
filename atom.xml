@@ -4,7 +4,7 @@
   <subtitle>blog, blog-b, blog-crazy, old-blog, and microblog updates</subtitle>
   <link href="https://feed.smallyu.net/atom.xml" rel="self"/>
   <link href="https://feed.smallyu.net/"/>
-  <updated>2026-10-27T02:13:16.154Z</updated>
+  <updated>2026-10-27T10:00:45.693Z</updated>
   <id>https://feed.smallyu.net/</id>
   <author><name>smallyu</name></author>
   <entry>
@@ -175,14 +175,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>TG 频道： https://t.me/smallyu_feed</title>
+    <title>TG 频道： https://t.me/smallyu_feed （已关闭）</title>
     <link href="https://t.smallyu.net/#2026-16"/>
     <id>micro:5410432411</id>
     <published>2026-08-25T12:33:48Z</published>
-    <updated>2026-08-25T12:33:48Z</updated>
+    <updated>2026-10-27T10:00:11Z</updated>
     <category term="微博"/>
-    <summary type="html"><![CDATA[<p>TG 频道： https://t.me/smallyu_feed</p>]]></summary>
-    <content type="html"><![CDATA[<p>TG 频道：<a href="https://t.me/smallyu_feed">https://t.me/smallyu_feed</a></p>
+    <summary type="html"><![CDATA[<p>TG 频道： https://t.me/smallyu_feed （已关闭）</p>]]></summary>
+    <content type="html"><![CDATA[<p>TG 频道：<a href="https://t.me/smallyu_feed">https://t.me/smallyu_feed</a> （已关闭）</p>
 ]]></content>
   </entry>
   <entry>

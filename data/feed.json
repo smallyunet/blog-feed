@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-27T02:13:16.154Z",
+  "generatedAt": "2026-10-27T10:00:45.693Z",
   "sources": [
     {
       "id": "blog",
@@ -227,9 +227,9 @@
       "title": "",
       "url": "https://t.smallyu.net/#2026-16",
       "publishedAt": "2026-08-25T12:33:48Z",
-      "updatedAt": "2026-08-25T12:33:48Z",
-      "summaryHtml": "<p>TG 频道： https://t.me/smallyu_feed</p>",
-      "contentHtml": "<p>TG 频道：<a href=\"https://t.me/smallyu_feed\">https://t.me/smallyu_feed</a></p>\n",
+      "updatedAt": "2026-10-27T10:00:11Z",
+      "summaryHtml": "<p>TG 频道： https://t.me/smallyu_feed （已关闭）</p>",
+      "contentHtml": "<p>TG 频道：<a href=\"https://t.me/smallyu_feed\">https://t.me/smallyu_feed</a> （已关闭）</p>\n",
       "year": 2026
     },
     {
