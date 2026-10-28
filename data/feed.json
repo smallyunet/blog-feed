@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-28T10:55:05.737Z",
+  "generatedAt": "2026-10-28T11:15:51.840Z",
   "sources": [
     {
       "id": "blog",
@@ -189,11 +189,11 @@
       "title": "不要买二手手机",
       "url": "https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
       "publishedAt": "2026-09-01T03:56:36.000Z",
-      "updatedAt": "2026-10-27T08:39:36.232Z",
+      "updatedAt": "2026-10-28T11:13:11.303Z",
       "tags": [
         "生活"
       ],
-      "wordCount": 1902
+      "wordCount": 2115
     },
     {
       "id": "micro:5474672005",
