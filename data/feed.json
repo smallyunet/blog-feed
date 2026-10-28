@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-28T02:07:34.622Z",
+  "generatedAt": "2026-10-28T10:55:05.737Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,23 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 674,
+  "count": 675,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "远程工作不要居家",
+      "url": "https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
+      "publishedAt": "2026-10-28T10:34:16.000Z",
+      "updatedAt": "2026-10-28T10:44:32.239Z",
+      "tags": [
+        "工作",
+        "远程工作"
+      ],
+      "wordCount": 2256
+    },
     {
       "id": "blog-crazy:https://crazy.smallyu.net/2026/10/27/%E6%95%99%E8%AE%AD%E7%9A%84%E4%BB%B7%E5%80%BC/",
       "type": "article",
