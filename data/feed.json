@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-10-31T02:06:11.886Z",
+  "generatedAt": "2026-10-31T15:42:31.147Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,22 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 675,
+  "count": 676,
   "items": [
+    {
+      "id": "blog:https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+      "type": "article",
+      "source": "blog",
+      "sourceLabel": "博客",
+      "title": "AI 开始让我们忘记什么是软件工程",
+      "url": "https://smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+      "publishedAt": "2026-10-31T15:25:45.000Z",
+      "updatedAt": "2026-10-31T15:39:18.685Z",
+      "tags": [
+        "工作"
+      ],
+      "wordCount": 2282
+    },
     {
       "id": "blog:https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
       "type": "article",
