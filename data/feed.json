@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-11-01T12:42:06.258Z",
+  "generatedAt": "2026-11-01T12:42:51.515Z",
   "sources": [
     {
       "id": "blog",
@@ -29,7 +29,7 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 676,
+  "count": 677,
   "items": [
     {
       "id": "micro:6555695927",
@@ -43,6 +43,20 @@
       "summaryHtml": "<p>经过了这么多黑客事件，会发现 ETH 的价格和使用场景还是很硬。所有的山寨币都要优先换成 ETH。那些所谓的隐私币，ZEC、XMR，为什么在这种时候不好用了呢。所以 ETH 应该进入你个人的资产储备列表。</p>",
       "contentHtml": "<p>经过了这么多黑客事件，会发现 ETH 的价格和使用场景还是很硬。所有的山寨币都要优先换成 ETH。那些所谓的隐私币，ZEC、XMR，为什么在这种时候不好用了呢。所以 ETH 应该进入你个人的资产储备列表。</p>\n",
       "year": 2026
+    },
+    {
+      "id": "blog-b:https://b.smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+      "type": "article",
+      "source": "blog-b",
+      "sourceLabel": "B 面",
+      "title": "AI 开始让我们忘记什么是软件工程",
+      "url": "https://b.smallyu.net/2026/10/31/AI%E5%BC%80%E5%A7%8B%E8%AE%A9%E6%88%91%E4%BB%AC%E5%BF%98%E8%AE%B0%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/",
+      "publishedAt": "2026-10-31T15:25:45.000Z",
+      "updatedAt": "2026-11-01T12:39:56.083Z",
+      "tags": [
+        "工作"
+      ],
+      "wordCount": 2282
     },
     {
       "id": "blog:https://smallyu.net/2026/10/28/%E8%BF%9C%E7%A8%8B%E5%B7%A5%E4%BD%9C%E4%B8%8D%E8%A6%81%E5%B1%85%E5%AE%B6/",
