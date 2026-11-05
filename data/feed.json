@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-11-05T02:06:54.574Z",
+  "generatedAt": "2026-11-05T09:01:08.666Z",
   "sources": [
     {
       "id": "blog",
@@ -74,18 +74,18 @@
       "wordCount": 2256
     },
     {
-      "id": "blog-crazy:https://crazy.smallyu.net/2026/10/27/%E6%95%99%E8%AE%AD%E7%9A%84%E4%BB%B7%E5%80%BC/",
+      "id": "blog-crazy:https://crazy.smallyu.net/2026/10/27/%E4%B8%8D%E8%A6%81%E5%8D%96%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
       "type": "article",
       "source": "blog-crazy",
       "sourceLabel": "疯狂版",
-      "title": "教训的价值",
-      "url": "https://crazy.smallyu.net/2026/10/27/%E6%95%99%E8%AE%AD%E7%9A%84%E4%BB%B7%E5%80%BC/",
+      "title": "不要卖二手手机",
+      "url": "https://crazy.smallyu.net/2026/10/27/%E4%B8%8D%E8%A6%81%E5%8D%96%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
       "publishedAt": "2026-10-27T08:40:42.000Z",
-      "updatedAt": "2026-10-27T09:52:51.471Z",
+      "updatedAt": "2026-11-05T08:40:01.815Z",
       "tags": [
         "生活"
       ],
-      "wordCount": 877
+      "wordCount": 1170
     },
     {
       "id": "micro:6340747742",
@@ -147,11 +147,11 @@
       "title": "穷人生孩子罪孽深重",
       "url": "https://crazy.smallyu.net/2026/10/04/%E7%A9%B7%E4%BA%BA%E7%94%9F%E5%AD%A9%E5%AD%90%E7%BD%AA%E5%AD%BD%E6%B7%B1%E9%87%8D/",
       "publishedAt": "2026-10-04T14:20:56.000Z",
-      "updatedAt": "2026-10-04T14:24:22.157Z",
+      "updatedAt": "2026-11-05T08:43:14.172Z",
       "tags": [
         "观点"
       ],
-      "wordCount": 146
+      "wordCount": 173
     },
     {
       "id": "micro:5925068838",
