@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-11-06T02:06:53.284Z",
+  "generatedAt": "2026-11-06T06:15:05.654Z",
   "sources": [
     {
       "id": "blog",
@@ -29,8 +29,21 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 677,
+  "count": 678,
   "items": [
+    {
+      "id": "micro:6678456249",
+      "type": "micro",
+      "source": "micro",
+      "sourceLabel": "微博",
+      "title": "",
+      "url": "https://t.smallyu.net/#2026-26",
+      "publishedAt": "2026-11-06T06:13:38Z",
+      "updatedAt": "2026-11-06T06:13:38Z",
+      "summaryHtml": "<p>iPhone Duo永远无法代替iPhone Pro，因为iPhone Pro的用户群体很大一部分是年轻女性（她们是消费能力最强的一批人），iPhone Duo的摄像头太差，她们不可能用。并且她们家里大概率已经有个iPad。 而对于年轻男性来说，消费能力在线的人大概率在用Macbook工作，他们也不需要让手机变成大屏。...</p>",
+      "contentHtml": "<p>iPhone Duo永远无法代替iPhone Pro，因为iPhone Pro的用户群体很大一部分是年轻女性（她们是消费能力最强的一批人），iPhone Duo的摄像头太差，她们不可能用。并且她们家里大概率已经有个iPad。</p>\n<p>而对于年轻男性来说，消费能力在线的人大概率在用Macbook工作，他们也不需要让手机变成大屏。而且iPhone Duo的价格定位足以代替一台Macbook的预算，但又不可能代替电脑。</p>\n<p>所以iPhone Duo 只能针对不需要使用电脑、只需要手机作为娱乐消费场景、并且家里没有iPad、对摄像头也没有要求的人群。这个目标受众实在是很小。</p>\n",
+      "year": 2026
+    },
     {
       "id": "micro:6555695927",
       "type": "micro",
