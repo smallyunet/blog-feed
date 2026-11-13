@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-11-13T05:05:09.053Z",
+  "generatedAt": "2026-11-13T10:05:48.627Z",
   "sources": [
     {
       "id": "blog",
@@ -29,7 +29,7 @@
       "url": "https://t.smallyu.net/"
     }
   ],
-  "count": 682,
+  "count": 681,
   "items": [
     {
       "id": "micro:6844666291",
@@ -53,20 +53,6 @@
       "url": "https://b.smallyu.net/2026/11/12/%E7%AC%AC5%E8%BD%AE%E5%81%9A%E8%A7%86%E9%A2%91%E8%AF%BE%E7%9A%84%E7%BB%83%E4%B9%A0%E9%A2%98/",
       "publishedAt": "2026-11-12T10:46:58.000Z",
       "updatedAt": "2026-11-12T10:58:10.016Z",
-      "tags": [
-        "王垠"
-      ],
-      "wordCount": 191
-    },
-    {
-      "id": "blog-b:https://b.smallyu.net/2026/11/12/%E7%AC%AC4%E8%BD%AE%E5%81%9A%E8%A7%86%E9%A2%91%E8%AF%BE%E7%9A%84%E7%BB%83%E4%B9%A0%E9%A2%98/",
-      "type": "article",
-      "source": "blog-b",
-      "sourceLabel": "B 面",
-      "title": "第 4 轮做视频课的练习题",
-      "url": "https://b.smallyu.net/2026/11/12/%E7%AC%AC4%E8%BD%AE%E5%81%9A%E8%A7%86%E9%A2%91%E8%AF%BE%E7%9A%84%E7%BB%83%E4%B9%A0%E9%A2%98/",
-      "publishedAt": "2026-11-12T06:46:58.000Z",
-      "updatedAt": "2026-11-12T09:58:02.016Z",
       "tags": [
         "王垠"
       ],
@@ -1874,8 +1860,8 @@
       "publishedAt": "2025-08-18T13:50:50.000Z",
       "updatedAt": "2025-08-22T08:54:30.257Z",
       "tags": [
-        "编程语言",
-        "Go"
+        "Go",
+        "编程语言"
       ],
       "wordCount": 3285
     },
@@ -1989,8 +1975,8 @@
       "publishedAt": "2025-08-06T05:08:00.000Z",
       "updatedAt": "2025-12-03T09:25:53.976Z",
       "tags": [
-        "项目分析",
-        "AI"
+        "AI",
+        "项目分析"
       ],
       "wordCount": 1743
     },
@@ -3132,8 +3118,8 @@
       "publishedAt": "2024-09-11T12:51:35.000Z",
       "updatedAt": "2026-08-04T11:43:16.383Z",
       "tags": [
-        "智能合约",
-        "程序员"
+        "程序员",
+        "智能合约"
       ],
       "wordCount": 786
     },
