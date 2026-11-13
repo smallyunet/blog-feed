@@ -1,7 +1,7 @@
 {
   "title": "smallyu feed",
   "description": "Aggregated updates from 博客, B 面, 疯狂版, 旧博客, and 微博.",
-  "generatedAt": "2026-11-13T10:05:48.627Z",
+  "generatedAt": "2026-11-13T10:07:48.975Z",
   "sources": [
     {
       "id": "blog",
@@ -270,7 +270,7 @@
       "title": "不要买二手手机",
       "url": "https://crazy.smallyu.net/2026/09/01/%E4%B8%8D%E8%A6%81%E4%B9%B0%E4%BA%8C%E6%89%8B%E6%89%8B%E6%9C%BA/",
       "publishedAt": "2026-09-01T03:56:36.000Z",
-      "updatedAt": "2026-10-28T11:13:11.303Z",
+      "updatedAt": "2026-11-05T08:26:57.262Z",
       "tags": [
         "生活"
       ],
@@ -5059,8 +5059,8 @@
       "publishedAt": "2022-10-05T03:49:57.000Z",
       "updatedAt": "2025-10-01T00:53:50.006Z",
       "tags": [
-        "勇者故事",
-        "梦想"
+        "梦想",
+        "勇者故事"
       ],
       "wordCount": 606
     },
@@ -6339,8 +6339,8 @@
       "publishedAt": "2021-10-09T10:44:10.000Z",
       "updatedAt": "2025-10-01T00:53:52.266Z",
       "tags": [
-        "勇者故事",
-        "梦想"
+        "梦想",
+        "勇者故事"
       ],
       "wordCount": 416
     },
@@ -7740,8 +7740,8 @@
       "publishedAt": "2020-10-25T17:07:12.000Z",
       "updatedAt": "2025-10-01T00:53:43.836Z",
       "tags": [
-        "勇者故事",
-        "梦想"
+        "梦想",
+        "勇者故事"
       ],
       "wordCount": 693
     },
